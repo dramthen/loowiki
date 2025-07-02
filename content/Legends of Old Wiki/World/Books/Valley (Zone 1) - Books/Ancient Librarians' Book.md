@@ -1,3 +1,9 @@
+---
+title: Ancient Librarians' Book
+tags:
+  - lore/Book
+---
+
 I. On the Founding of the City
 Thalanos was born not from
 conquest, but necessity. The

@@ -1,3 +1,8 @@
+---
+title: Geomancer Rigwald
+tags:
+  - NPC
+---
 You mistake your arrival for an
 accident. That is...
 understandable.
@@ -42,7 +47,3 @@ gather lightly. But things
 beneath this world are shifting
 again. And those who remember
 what was are few.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

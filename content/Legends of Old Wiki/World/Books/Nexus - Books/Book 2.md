@@ -1,3 +1,8 @@
+---
+title: Book 2
+tags:
+  - lore/Book
+---
 One, unity. A prism--not of
 color or light, but of being.
 Whole, without division. This is

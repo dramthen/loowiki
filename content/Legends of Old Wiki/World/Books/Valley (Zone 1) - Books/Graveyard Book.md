@@ -1,3 +1,8 @@
+---
+title: Graveyard Book
+tags:
+  - lore/Book
+---
 Various notes within the book
 appear to be from different
 sources...

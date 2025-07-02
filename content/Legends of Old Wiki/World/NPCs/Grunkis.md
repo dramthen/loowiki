@@ -1,3 +1,8 @@
+---
+title: Grunkis
+tags:
+  - NPC
+---
 See da table? You bash baddies
 and bring gear here. Dip it into da
 fire and burn it down! Be left with
@@ -8,7 +13,3 @@ Ya, just go to da table and
 sacrifice what you got. Maybe
 you gotta sing? Dey say Dissen
 Chant, but I no know that chant...
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

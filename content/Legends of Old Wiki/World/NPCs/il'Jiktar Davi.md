@@ -1,3 +1,8 @@
+---
+title: Il'jiktar Davi
+tags:
+  - NPC
+---
 Hmm? Equipment? No, no, sorry,
 I cannot help you with that. I hear
 tell that the Ravari make find
@@ -21,7 +26,3 @@ hunt is just as important as how
 you hunt it. And I'd be willing to
 bet the stronger the foe, the
 better the tow!
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

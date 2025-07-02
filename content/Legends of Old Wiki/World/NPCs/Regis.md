@@ -1,3 +1,8 @@
+---
+title: Regis
+tags:
+  - NPC
+---
 Honestly, I don't know why we're
 here. Last thing I remember, I
 was havin' a fine stein of mead
@@ -23,7 +28,3 @@ been snatching people out of the
 void. For what? I'm not sure. But I
 do know this - I'm happy to be
 alive.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

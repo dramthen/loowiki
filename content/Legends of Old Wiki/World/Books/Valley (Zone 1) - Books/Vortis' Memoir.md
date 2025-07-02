@@ -1,3 +1,8 @@
+---
+title: Vortis' Memoir
+tags:
+  - lore/Book
+---
 *Note: This book is found behind the four Ravenous Undead worshiping a pillar inside of the cave system, there is an invisible ramp that leads up through a secret wall containing the book.
 
 Immortality is a consolation

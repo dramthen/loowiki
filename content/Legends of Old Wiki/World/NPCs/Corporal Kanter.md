@@ -1,3 +1,8 @@
+---
+title: Corporal Kanter
+tags:
+  - NPC
+---
 I don't rightly recall the precise
 moment fate twisted me from a
 simple soldier into something
@@ -46,7 +51,3 @@ breathe, and I stand guard still--
 not just for my home of
 Thalanos, but for all of us caught
 between the cracks of a broken world.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

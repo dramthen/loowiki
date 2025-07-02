@@ -1,3 +1,8 @@
+---
+title: Arbiter Tobel
+tags:
+  - NPC
+---
 There you are. Pulled from the
 jaws of silence.
 
@@ -49,7 +54,3 @@ you're steady, when you
 remember how to move with
 purpose... then the path will find
 you.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

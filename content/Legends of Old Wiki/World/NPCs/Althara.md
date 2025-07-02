@@ -1,3 +1,8 @@
+---
+title: Althara
+tags:
+  - NPC
+---
 I was a Shieldbearer of the
 Radiant Pact--blessed in steel,
 tempered in service. I wasn't
@@ -46,7 +51,3 @@ with her. And if she yet lives, I'll
 find her. And if she doesn't--
 then I'll carry her light with me
 until mine fades too.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

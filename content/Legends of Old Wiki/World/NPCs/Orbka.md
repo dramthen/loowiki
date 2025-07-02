@@ -1,3 +1,8 @@
+---
+title: Orbka
+tags:
+  - NPC
+---
 Orbka come from Orbulg. Way
 down the Darahg muck. Big trees.
 Big stinks. Big teeth in the water.
@@ -26,7 +31,3 @@ That mean Orbka still here.
 
 Maybe swamp come back
 someday. Maybe not. Still swing.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

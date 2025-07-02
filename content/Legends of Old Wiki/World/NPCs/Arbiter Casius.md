@@ -1,3 +1,8 @@
+---
+title: Arbiter Casius
+tags:
+  - NPC
+---
 Ours is not the only reality, you
 know. Since the Fracturing, the
 planes have multiplied--
@@ -21,7 +26,3 @@ your call is not for us to decide--
 only to witness. Let the currents
 of the void reveal who or what
 awaits.
-
-[[Nexus|Back to Nexus]]
-[[world|Back to World]]
-[[Legends Of Old|Back to Main]]

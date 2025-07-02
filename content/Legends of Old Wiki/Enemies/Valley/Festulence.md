@@ -1,18 +1,19 @@
+---
+title: Festulence
+tags:
+  - genus/zombie
+---
 Festulence is a secret boss located in the Graveyard of the Valley.
 
 In order to access this boss, clear most of the Ravenous Undead out of the graveyard, then pull a Ravenous Undead into the open grave in the center of the graveyard and kill it. This will cause the crypt to open a secret passage way down to the boss.
 
 Festulence is an undead type monster that will repeatedly cast a point-blank area of effect damage spell around him, whenever you see him cast move away from him and/or pull your pet back - this PBAE can be completely avoided by doing this and give you a moment to refresh yourself while he finishes casting.
 
-This boss is of the #genus/zombie and will share its loot table with others of its kind.
+This boss is of the Zombie genus and will share its loot table with others of its kind.
 
 Known Drops:
-	[[Putrid Walkers]]
-	[[Rot Wraps]]
-	[[Knife of Festering]]
-	[[Shroud of the Lurker]]
-	[[Ghoulmight]]
-
-[[by Boss Genus|Back to by Genus]]
-[[Valley (Zone 1)|Back to Valley (Zone 1)]]
-[[Legends Of Old|Back to Main]]
+	- [[Putrid Walkers]]
+	- [[Rot Wraps]]
+	- [[Knife of Festering]]
+	- [[Shroud of the Lurker]]
+	- [[Ghoulmight]]

@@ -1,3 +1,8 @@
+---
+title: Book 1
+tags:
+  - lore/Book
+---
 Before it broke, the world was a
 Prism--sevenfold and single.
 Each shard was not a piece, but a
@@ -25,7 +30,3 @@ seeker carries like a wound. Not
 what was broken. But what
 broke it--and whether it
 watches still.
-
-[[Books|Back to Books]]
-[[Nexus|Back to Nexus]]
-[[Legends Of Old|Back to Main]]
