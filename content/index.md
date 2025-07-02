@@ -1,5 +1,5 @@
 ---
-title: Legends of Old - Wiki
+title: Legends of Old Unofficial Wiki
 ---
 ##### Welcome to the Unofficial Legends of Old Wiki!
 
