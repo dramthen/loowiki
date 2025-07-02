@@ -5,5 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
+  sceneTemplate: templates/template.md
   ignoredFiles: []
 ---
