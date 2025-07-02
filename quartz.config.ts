@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "dramthen.github.io/loowiki",
-    ignorePatterns: ["private", "templates", ".obsidian", "content/Index.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "content/index.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
