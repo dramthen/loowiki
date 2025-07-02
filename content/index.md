@@ -15,5 +15,3 @@ Please see the following sections for more information:
 - [[Disenchanting]] - [[Shards]]
 - [[Equipment]] -  [[by Equipment Type]]
 - [[Enemies]] - [[by Boss Genus]]
-
-The #TBD tag is used wherever I plan on adding additional information.
