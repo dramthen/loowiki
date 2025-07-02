@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Official Patreon: "https://www.patreon.com/SupportLegendsOfOld",
+      "Official Patreon": "https://www.patreon.com/SupportLegendsOfOld",
       "Discord Community": "https://discord.com/invite/mWUSsYzqNu",
     },
   }),
