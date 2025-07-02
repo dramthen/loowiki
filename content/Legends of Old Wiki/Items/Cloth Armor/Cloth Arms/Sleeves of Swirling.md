@@ -1,9 +1,12 @@
-#cloth_armor/cloth_Arms 
-Negation: 2
-Mana: 10
-Intelligence: 5
-Arcane: 4
+---
+title: Sleeves of Swirling
+tags:
+  - cloth_armor/cloth_Arms
+---
+- Cloth Arms
+- Negation: 1
+- Mana: 5
+- Intelligence: 3
+- Arcane: 1
 
 Dropped by Corpse Light Bosses
-[[by Boss Genus|Search by Genus]]
-[[by Equipment Type|Search by Equipment Type]]
