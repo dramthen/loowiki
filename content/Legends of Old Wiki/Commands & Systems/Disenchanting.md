@@ -1,3 +1,7 @@
+---
+title: disenchanting
+tags:
+---
 The disenchanting table found in the [[Nexus]] allows you to take three unwanted [[equipment]], or two plus a [[Shards|shard]] to generate new random [[equipment]]. The generated item is slightly weighted based on input and is scaled within your characters level - not the average level of the input items.
 
 Using completely random [[equipment]] will generate a completely random output.
@@ -9,5 +13,3 @@ Currently it is possible to force generate an accessory, a weapon (shields are c
 A [[Shards|shard]] can be used in leu of a third [[equipment]] piece. The type of shard will force a stat onto an item in addition to all other randomly generated stats. See the [[Shards]] page for more details.
 
 ![[Pasted image 20250629130653.png|300]]
-
-[[Legends Of Old|Back to Main]]

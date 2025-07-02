@@ -1,4 +1,8 @@
-Not currently released, no data available
+---
+title: Shaman
+tags:
+  - TBD
+---
 
-[[Classes|Back to Classes]]
-[[Legends Of Old|Back to Main]]
+
+Not currently released, no data available

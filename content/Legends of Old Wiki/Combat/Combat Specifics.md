@@ -1,3 +1,7 @@
+---
+title: Combat Specifics
+tags:
+---
 Combat in Legends of Old is similar to MMOs of yester-year, with far less downtime than them.
 
 **Targeting**
@@ -36,7 +40,5 @@ Combat in Legends of Old is similar to MMOs of yester-year, with far less downti
 	Each kill will grant experience towards your next level which is represented by the orange resource bar. Once the bar is full, you'll be given the option to level up. In most cases this is safe to do so, but enemies will also scale up with you, so in rare instances you may wish to remain a lower level to farm a specific piece of [[equipment]].
 		Max level is currently 20
 
-For more information on what you'll be using these tactics on, see the [[Enemies]] page.
-
-[[Legends Of Old|Back to Main]]
+For more information on what you'll be using these tactics on, see the [[enemies]] page.
 
