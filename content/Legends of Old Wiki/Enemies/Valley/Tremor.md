@@ -11,10 +11,10 @@ Although he is a single pull, Tremor hits significantly harder with physical dam
 This boss is of the Mudman genus and will share its loot table with others of its kind.
 
 Known Drops:
-	- [[Bracers of Mire]]
-	- [[Slicked Club]]
-	- [[Encrusted Sleeves]]
-	- [[Mantle of Clay]]
-	- [[Tide of Miremind]]
-	- [[Mudcaked Leggings]]
-	- [[Clayslicer]]
+- [[Bracers of Mire]]
+- [[Slicked Club]]
+- [[Encrusted Sleeves]]
+- [[Mantle of Clay]]
+- [[Tide of Miremind]]
+- [[Mudcaked Leggings]]
+- [[Clayslicer]]

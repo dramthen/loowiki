@@ -12,4 +12,4 @@ Skeletal Centurion is considered a regular enemy and will drop regular loot.
 Vareth is a super boss and has an exclusive loot table.
 
 Known Drops:
-	- [[Magebane]]
+- [[Magebane]]

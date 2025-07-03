@@ -10,11 +10,11 @@ The boss will social along with the Ravari Maverick standing next to him, it's g
 This boss is of the Ravari genus and will share its loot table with others of its kind.
 
 Known Drops:
-	- [[Sleeves of Avia]]
-	- [[Leggings of Avia]]
-	- [[Skullcap of Avia]]
-	- [[Boots of Avia]]
-	- [[Gloves of Avia]]
-	- [[Tunic of Avia]]
-	- [[Dagger of Redbeak]]
-	- [[Chainshirt of Healing]]
+- [[Sleeves of Avia]]
+- [[Leggings of Avia]]
+- [[Skullcap of Avia]]
+- [[Boots of Avia]]
+- [[Gloves of Avia]]
+- [[Tunic of Avia]]
+- [[Dagger of Redbeak]]
+- [[Chainshirt of Healing]]

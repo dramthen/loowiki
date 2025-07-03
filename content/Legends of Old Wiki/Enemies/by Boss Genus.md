@@ -8,4 +8,10 @@ tags:
   - "#genus/super_boss"
   - "#genus/ghost_haunt"
   - "#genus/corpse_light"
+  - genus/Varkh
+  - genus/sererian
+  - genus/blackdeath
+  - genus/mushroomman
+  - genus/spidermagus
+  - genus/lanternofthelostvoice
 ---
