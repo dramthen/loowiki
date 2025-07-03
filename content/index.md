@@ -10,17 +10,14 @@ While this was created to assist players it obviously will contain a great deal 
 Please see the following sections for more information:
 - [[Combat Specifics]]
 - [[Controls & Commands]] - [[Storage]] - [[Obelisk (Multiplayer)|Multiplayer]]
-
-
+%%
 - [[Classes]]
 	- [[Reaver]] - [[Elementalist]] - [[Rogue]] - [[Paladin]] - [[Druid]] - [[Shaman]]
 - [[World]]
 	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]]
-
-
+%%
 - [[Disenchanting]] - [[Shards]]
 - [[Equipment]] -  [[by Equipment Type]]
 - [[Enemies]] - [[by Boss Genus]]
-
-
+%%
 - [[Patch Notes]]
