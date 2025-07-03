@@ -12,5 +12,3 @@ tags:
 - +2 mana regen
 
 Dropped by Corpse Light Bosses
-[[by Boss Genus|Search by Genus]]
-[[by Equipment Type|Search by Equipment Type]]

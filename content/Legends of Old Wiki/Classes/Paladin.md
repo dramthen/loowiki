@@ -8,7 +8,7 @@ tags:
   <div>
     The Paladin is a sturdy melee combatant with access to various Sigils. Sigils empower your attacks with various effects and can be detonated with the spell Holy Blinding for an immediate effect based on the sigil along with an instance of Pure damage. <br><br>
 	Paladin has many support options available and can uniquely take on encounters with their spells Chains of Eltair, Lull, Sigil of Redemption, and Sigil of Bulwarking. Paladins also have the ability to equip shields, giving them an additional method of avoiding melee damage no other class has access to. <br><br>
-	Paladins innately have a chance to double attack on every melee swing. They can also start off wearing cloth and leather while at higher levels unlocking chain and plate armor. Wields one-handed swords, clubs, or axes and a shield.
+	Paladins innately have a chance to double attack on every melee swing. They can also start off wearing cloth and leather while at higher levels unlocking chain and plate armor. Wields one-handed swords, clubs, or axes, and a shield.
   </div>
 </div>
 

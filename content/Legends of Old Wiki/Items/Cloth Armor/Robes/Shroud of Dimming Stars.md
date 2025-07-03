@@ -1,5 +1,7 @@
 ---
 title: Shroud of Dimming Stars
+tags:
+  - cloth_armor/Robes
 ---
 - Cloth Robes
 - Evasion%: 4  

@@ -1,5 +1,7 @@
 ---
 title: Wraps of The Last Hour
+tags:
+  - cloth_armor/cloth_Gloves
 ---
 - Cloth Gloves
 - Negation: 2

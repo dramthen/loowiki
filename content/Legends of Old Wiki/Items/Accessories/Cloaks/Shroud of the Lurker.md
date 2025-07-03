@@ -1,5 +1,7 @@
 ---
 title: Shroud of the Lurker
+tags:
+  - accessories/Cloaks
 ---
 - Cloak
 - Absorbtion: 4
