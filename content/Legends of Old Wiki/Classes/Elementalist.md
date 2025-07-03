@@ -7,7 +7,7 @@ The Elementalist can summon various elemental pets, has the very potent Windlace
 
 Extremely low health with high damage output and burst potential until out of mana. Fire Elemental offers high single target damage when placed behind the target with Windlace applied. High AoE damage with Ice Sphere when combined with a Reaver in the party.
 
-The Elementalist can only wear cloth type [[combat specifics|armor]]. Wields two-handed staffs.
+The Elementalist can only wear cloth type [[Combat Specifics|armor]]. Wields two-handed staffs.
 
 - **Damage Spells:**
 	- Aetherblast
