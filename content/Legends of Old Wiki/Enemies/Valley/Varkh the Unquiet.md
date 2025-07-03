@@ -2,7 +2,6 @@
 title: Varkh the Unquiet
 tags:
   - genus/Varkh
-  - TBD
 ---
 This boss is located in the newly opened ruins deep within the caves, in a small library like area, nearby [[Sir Erian the Forgotten]].
 

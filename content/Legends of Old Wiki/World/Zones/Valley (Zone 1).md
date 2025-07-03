@@ -10,6 +10,21 @@ The Valley consists of a couple different key landmarks. The Ravari Fortress, th
 
 A vast new area has opened deep within the cave system, filled with various undead, mudmen, and bosses.
 
+- Bosses:
+	- [[Ravari Soldier & Ravari Captain]]
+	- [[Talok Windsunder]]
+	- [[Vaelthar Skyborn]]
+	- [[Ancient Librarian]]
+	- [[Ignus Fatuus]]
+	- [[Festulence]]
+	- [[Plaguewretch]]
+	- [[Tremor]]
+	- [[Muck & Mire]]
+	- [[Varkh the Unquiet]]
+	- [[Ser Erian the Forgotten]]
+	- [[Lantern of The Lost Voice]]
+	- [[Vareth Mortis & Skeletal Centurion]]
+
 - Enemies:
 	- Ravari Scout
 	- Ravari Forager
@@ -26,21 +41,6 @@ A vast new area has opened deep within the cave system, filled with various unde
 	- Burning Hate
 	- Spectral Revenant
 	- Stone Construct
-
-- Bosses:
-	- [[Ravari Soldier & Ravari Captain]]
-	- [[Talok Windsunder]]
-	- [[Vaelthar Skyborn]]
-	- [[Ancient Librarian]]
-	- [[Ignus Fatuus]]
-	- [[Festulence]]
-	- [[Plaguewretch]]
-	- [[Tremor]]
-	- [[Muck & Mire]]
-	- [[Varkh the Unquiet]]
-	- [[Ser Erian the Forgotten]]
-	- [[Lantern of The Lost Voice]]
-	- [[Vareth Mortis & Skeletal Centurion]]
 
 - Books:
 	 - [[Ancient Librarians' Book]]
