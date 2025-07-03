@@ -12,4 +12,4 @@ Currently it is possible to force generate an accessory, a weapon (shields are c
 
 A [[Shards|shard]] can be used in leu of a third [[Equipment|equipment]] piece. The type of shard will force a stat onto an item in addition to all other randomly generated stats. See the [[Shards]] page for more details.
 
-![[Pasted image 20250629130653.png|300]]
+![[Disenchant_Bench.png|300]]

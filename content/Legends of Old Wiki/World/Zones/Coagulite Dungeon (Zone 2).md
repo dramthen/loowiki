@@ -4,7 +4,7 @@ tags:
   - Zones
   - TBD
 ---
-![[Pasted image 20250702210208.png|400]]
+![[Coagulite_Zone.png|400]]
 
 The Coagulite Dungeon is found deep in marshland, with a large fortress structure and multiple caves filled with mushrooms and other life forms of life. The Coagulites seem to have invaded this place, and it seems to be defending itself. Accessible at level 8.
 

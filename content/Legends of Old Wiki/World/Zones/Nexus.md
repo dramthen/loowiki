@@ -3,7 +3,7 @@ title: Nexus
 tags:
   - Zones
 ---
-![[Pasted image 20250630093259.png|400]]
+![[Nexus_Zone.png|400]]
 
 The Nexus exists as a hub-world connected to various shards, or dungeons, to explore.
 

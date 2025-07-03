@@ -5,11 +5,11 @@ tags:
   - Classes
 ---
 <div class="top-align-container">
-  <img src="Pasted image 20250703133405.png" alt="Reaver">
+  <img src="Reaver_Symbol.png" alt="Reaver">
   <div>
     Reaver is one of the most diverse classes in the game with the ability to sacrifice their health to heal allies, various curses, high AoE potential, self healing, and decent single target damage. However, they lack any crowd control abilities and cannot split pulls apart<br><br>
 	Some of the more notable abilities include Gore Harvest, Drain Life, Bonebreaker, and Darkblade. With these and other skills the Reaver is nearly an unstoppable force. <br><br>
-	Reavers innately have a chance to double attack on every melee swing. They also increase their chance to double attack if below 50% health. Lastly, they even have an increasing chance to proc additional magic damage that heals the Reaver for the damage dealt based on health.
+	Reavers innately have a chance to double attack on every melee swing. They also increase their chance to double attack if below 50% health. Lastly, they even have an increasing chance to proc additional magic damage that heals the Reaver for the damage dealt based on health. The Reaver can equip cloth and leather armor, while at higher levels unlocks chain and plate. Also wields 2h swords, clubs, and axes.
   </div>
 </div>
 

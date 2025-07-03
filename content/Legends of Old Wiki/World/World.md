@@ -5,7 +5,7 @@ tags:
 
 The world of Legends of Old has been broken into shards, as you increase your level you will gain access to additional shards and be able to explore more dungeons, simply step into a portal to located in the [[Nexus]] to access one of the shards and begin your adventure. Or, interact with the [[Obelisk (Multiplayer)|obelisk]] first to create or join a multiplayer session.
 
-![[Pasted image 20250630093142.png|200]]
+![[Portal_Nexus.png|200]]
 
 [[Nexus]]
 	[[Books]]

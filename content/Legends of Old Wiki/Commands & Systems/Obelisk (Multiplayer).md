@@ -2,13 +2,13 @@
 title: Obelisk (Multiplayer)
 tags:
 ---
-![[Pasted image 20250630094253.png|100]]
+![[Obelisk.png|100]]
 
 The Obelisk, located in the [[Nexus]], allows players to create and join multiplayer sessions.
 
 Simply click on the obelisk to bring up the multiplayer UI.
 
-![[Pasted image 20250630094540.png|300]]
+![[Multiplayer_Menu.png|300]]
 
 Under "Create Game" you can create a lobby with or without a password, clicking "Create" will use Steam to open a session for other players to join. The room will be joinable whenever the creator of the game returns or otherwise is located in the Nexus.
 

@@ -4,7 +4,7 @@ tags:
   - Classes
 ---
 <div class="top-align-container">
-  <img src="Pasted image 20250703124039.png" alt="Elementalist">
+  <img src="Elementalist_Symbol.png" alt="Elementalist">
   <div>
     The Elementalist can summon various elemental pets, has the very potent Windlace spell, various nukes, and Ice Block for powerful crowd control.<br><br>
 	Extremely low health with high damage output and burst potential until out of mana. The Fire Elemental pet offers high single target damage when placed behind the target with Windlace applied. High AoE damage with Ice Sphere when combined with a Reaver in the party.<br><br>
