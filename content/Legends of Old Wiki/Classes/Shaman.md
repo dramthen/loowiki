@@ -2,6 +2,7 @@
 title: Shaman
 tags:
   - TBD
+  - Classes
 ---
 
 

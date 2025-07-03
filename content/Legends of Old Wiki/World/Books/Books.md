@@ -15,5 +15,5 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Ruined Tower Book]]
 	- [[Ancient Librarians' Book]]
 	- [[Vortis' Memoir]]
-- Zone 2 Books
-- Zone 3 Books
+- [[Coagulite Dungeon (Zone 2)]] Books
+- [[Frost Keep (Zone 3)]] Books

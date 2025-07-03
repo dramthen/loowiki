@@ -1,6 +1,7 @@
 ---
 title: Classes
-tags: []
+tags:
+  - Classes
 ---
 Classes in Legends of Old are the following:
 

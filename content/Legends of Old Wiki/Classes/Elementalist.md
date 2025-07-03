@@ -1,6 +1,7 @@
 ---
 title: Elementalist
 tags:
+  - Classes
 ---
 The Elementalist can summon various elemental pets, has the very potent Windlace spell, various nukes, and Ice Block for powerful crowd control.
 

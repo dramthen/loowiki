@@ -1,6 +1,7 @@
 ---
 title: Paladin
 tags:
+  - Classes
 ---
 
 The Paladin is a sturdy melee combatant with access to various Sigils. Sigils empower your attacks with various effects and can be detonated with the spell Holy Blinding for an immediate effect based on the sigil along with an instance of Pure damage.
