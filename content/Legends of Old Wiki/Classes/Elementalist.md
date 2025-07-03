@@ -3,17 +3,18 @@ title: Elementalist
 tags:
   - Classes
 ---
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div class="top-align-container">
+  <img src="Pasted image 20250703124039.png" alt="Elementalist">
+  <div class="text-wrapper">
+    <div>
     The Elementalist can summon various elemental pets, has the very potent Windlace spell, various nukes, and Ice Block for powerful crowd control.<br><br>
+    
 	Extremely low health with high damage output and burst potential until out of mana. Fire Elemental offers high single target damage when placed behind the target with Windlace applied. High AoE damage with Ice Sphere when combined with a Reaver in the party.<br><br>
+	
 	The Elementalist can only wear cloth type armor. Wields two-handed staffs.
-  </div>
-  <div>
-    <img src="Pasted image 20250703124039.png" alt="Elementalist" style="max-width: 200px; height: auto; margin-left: 10px;">
+	</div>
   </div>
 </div>
-
 
 - **Damage Spells:**
 	- Aetherblast
