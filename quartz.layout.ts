@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Official LoO Patreon": "https://www.patreon.com/SupportLegendsOfOld",
       "Discord Community": "https://discord.com/invite/mWUSsYzqNu",
+      "Steam Page": "https://store.steampowered.com/app/3554680/Legends_of_Old/",
     },
   }),
 }

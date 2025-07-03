@@ -1,5 +1,5 @@
 ---
-title: disenchanting
+title: Disenchanting
 tags:
 ---
 The disenchanting table found in the [[Nexus]] allows you to take three unwanted [[equipment]], or two plus a [[Shards|shard]] to generate new random [[equipment]]. The generated item is slightly weighted based on input and is scaled within your characters level - not the average level of the input items.
