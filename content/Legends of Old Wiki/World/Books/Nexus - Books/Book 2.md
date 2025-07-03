@@ -29,7 +29,3 @@ what you must.
 
 The Prism is no longer whole.
 But neither is it forgotten.
-
-[[Books|Back to Books]]
-[[Nexus|Back to Nexus]]
-[[Legends Of Old|Back to Main]]

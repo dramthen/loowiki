@@ -44,7 +44,3 @@ unguarded moment, the sky will
 forget itself. And the starts will
 remember the names we gave
 them.
-
-[[Books|Back to Books]]
-[[Valley (Zone 1)|Back to Valley (Zone 1)]]
-[[Legends Of Old|Back to Main]]

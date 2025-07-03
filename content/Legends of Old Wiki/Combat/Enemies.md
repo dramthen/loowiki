@@ -7,6 +7,7 @@ Enemies fall into various types, with some sub-types:
 		- Light Tank - Fast Attack Speed, low damage and health
 		- Heavy Tank - Slow Attack Speed, high damage and health
 		- Caster - Will reposition to cast, low health
+		- Hexer - Similar to caster but will also cast debuffs
 		- Archer - Will attack from range, normal health
 		- Priest - Will heal allies and self, rarely casts a damage shield, low health
 	- Boss Monsters - Higher Health, Damage, sometimes unique effects

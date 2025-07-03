@@ -85,7 +85,3 @@ remain seated, perfectly still,
 preserved at the height of power.
 I fear, then, that I must walk
 away. Let that be enough.
-
-[[Books|Back to Books]]
-[[Valley (Zone 1)|Back to Valley (Zone 1)]]
-[[Legends Of Old|Back to Main]]

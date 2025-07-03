@@ -34,7 +34,3 @@ The il'Jiktar intervene only
 when necessary.
 Your presence here means you
 were worth saving.
-
-[[Books|Back to Books]]
-[[Nexus|Back to Nexus]]
-[[Legends Of Old|Back to Main]]

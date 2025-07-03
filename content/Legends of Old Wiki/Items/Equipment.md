@@ -1,4 +1,4 @@
-Equipment in Legends of Old is found from slaying enemies, or created at the [[Disenchanting]] table.
+Equipment in Legends of Old is found from slaying enemies, or created at the [[disenchanting]] table.
 
 Non-named enemies in the game drop random items, where stats are randomized on a piece of equipment, random items are also scaled to the monster level that dropped them. However, named [[enemies]] can drop named items which have predetermined stats, they can also occasionally drop [[shards]] which can be used at the [[disenchanting]] table.
 

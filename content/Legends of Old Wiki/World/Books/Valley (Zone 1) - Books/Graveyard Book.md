@@ -47,7 +47,3 @@ How could they not? Have you
 considered it? Will you? You,
 who are reading this, must
 know.. yes, you surely must..
-
-[[Books|Back to Books]]
-[[Valley (Zone 1)|Back to Valley (Zone 1)]]
-[[Legends Of Old|Back to Main]]
