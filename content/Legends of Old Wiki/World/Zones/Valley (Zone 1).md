@@ -3,8 +3,7 @@ title: Valley (Zone 1)
 tags:
   - Zones
 ---
-
-![[Valley_Zone.png|400]]
+![[Valley_Zone.png|800]]
 
 The Valley consists of a couple different key landmarks. The Ravari Fortress, the Graveyard, the Caves, and the Corpse Light castle, pictured above. Accessible at level 1, it is currently the only outdoor-type zone with a sprawling cave system and a *known* non-boss [[Vortis' Memoir|related secret.]]
 
