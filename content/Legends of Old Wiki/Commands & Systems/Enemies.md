@@ -16,7 +16,7 @@ Enemies fall into various types, with some sub-types:
 - Super Boss Monsters - Immune to CC, high health, damage, unique effects
 *Note: this is only an example list, more types may be added in the future*
 
-Enemies by [[World|Zone]] - Enemies by [[by Boss Genus|Boss Genus]]
+Search enemies <a href="./loowiki/Legends-of-Old-Wiki/Items/">by Zone</a>
 
 Most monsters are considered your level, however some have a specific difficulty modifier and may have special abilities. This means that an enemy that is your level + mod may have a distinct advantage over you at level 2 + mod rather than 20 + mod as the difference is much smaller at higher levels. If you find a certain monster or area too difficult then gain some [[Equipment|equipment]], [[Combat Specifics|experience]], and maybe [[Obelisk (Multiplayer)|bring a friend!]] These will assist in overcoming the mod difference, and modded enemies typically drop even more powerful and rare equipment.
 

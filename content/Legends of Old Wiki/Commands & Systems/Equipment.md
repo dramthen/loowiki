@@ -1,6 +1,6 @@
 Equipment in Legends of Old is found from slaying enemies, or created at the [[disenchanting]] table.
 
-Non-named enemies in the game drop random items, where stats are randomized on a piece of equipment, random items are also scaled to the monster level that dropped them. However, named [[Enemies]] can drop named items which have predetermined stats, they can also occasionally drop [[shards]] which can be used at the [[disenchanting]] table.
+Non-named enemies in the game drop random items, where stats are randomized on a piece of equipment, random items are also scaled to the monster level that dropped them. However, named [[Enemies]] can drop named items which have predetermined stats, they can also occasionally drop [[Shards]] which can be used at the [[disenchanting]] table.
 
 Named enemies also sometimes have specific drops that cannot be found until reaching a certain level, further incentivizing leveling up and gaining power through items and skills. Named drop tables are also defined by the monsters genus, for example two similar ghost haunt from [[Valley (Zone 1)]] may have the same drop table, but a frozen haunt which is found in [[Frost Keep (Zone 3)]] will have a different drop table entirely. Some named enemies are an entirely unique genus' and have a unique drop table along with that.
 
@@ -8,4 +8,4 @@ Both named and non-named items can rarely have additional modifiers on them (som
 
 While all classes can use cloth, some can use leather, others will learn to use Chain at level 8, and Plate at level 12 if able.
 
-Search [[by Equipment Type]]
+Search equipment <a href="./loowiki/Legends-of-Old-Wiki/Items/">by Slot</a>

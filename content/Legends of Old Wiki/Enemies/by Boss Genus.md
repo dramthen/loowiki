@@ -1,5 +1,7 @@
 ---
 title: by Boss Genus
+draft: true
+tags:
 ---
 - [[Valley (Zone 1)]]:
 	- #genus/ravari

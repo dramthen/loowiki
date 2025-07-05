@@ -1,6 +1,7 @@
 ---
 title: by Equipment Type
-tags: []
+tags: 
+draft: true
 ---
 - 1h Weapons
 	- #1h_Weapons/1h_Axes
