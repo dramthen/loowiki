@@ -13,3 +13,4 @@ This boss is of the Black Death genus and will share its loot table with others 
 	- [[Webcoil Grips]]
 	- [[Spinner's Embrace]]
 	- [[Silkwrought Ring]]
+	- [[Deathweaver's Hood]]

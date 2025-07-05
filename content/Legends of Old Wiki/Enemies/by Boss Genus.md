@@ -7,6 +7,7 @@ title: by Boss Genus
 	- #genus/slime 
 	- #genus/zombie 
 	- #genus/corpse_light 
+	- #genus/remnantofaccord 
 	- #genus/varkh 
 	- #genus/sererian 
 	- #genus/lanternofthelostvoice 
@@ -22,4 +23,8 @@ title: by Boss Genus
 	+ #genus/kelva 
 
 - [[Frost Keep (Zone 3)]]
-	- tbd
+	- #genus/gnoll
+	- #genus/gnollKing
+	- #genus/frozenHaunt
+	- #genus/frozenSpider
+	- #genus/Titan

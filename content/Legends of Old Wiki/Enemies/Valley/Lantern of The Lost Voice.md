@@ -11,3 +11,4 @@ This boss is of the Lantern of the Lost Voice genus and will share its loot tabl
 
 - Known Drops:
 	- [[Hat of False Fire]]
+	- [[Ghostkindle Wraps]]

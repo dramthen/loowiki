@@ -4,4 +4,30 @@ tags:
   - Zones
   - TBD
 ---
-Data added soon
+![[Pasted image 20250705000100.png]]
+
+The Frost Keep is located in an unknown arctic area, covered in ice and snow. Only hardy creatures survive here such as the clan of Icefang gnolls, the Ice Golems, the Snow Crawlers, and of course the undead. The area seems to hold many secrets and treasures.
+
+- Bosses
+	- [[The Pale Lament]]
+	- [[Spectral Jailer]]
+	- [[Corpseweaver Ghraaz]]
+	- [[Shira Snowbane]]
+	- [[Thalnar the Pale]]
+	- [[Narakka Windshiver]]
+	- [[King Snarlfist IV]]
+	- [[Ice Golem + Ice Golem x3]]
+
++ Enemies
+	+ Snow Crawler
+	+ Ice Golem
+	+ Ice Titan
+	+ Ancient Slush
+	+ Frozen Legionnaire
+	+ Glaciated Corpse
+	+ Frozen Coagulite Arcanist
+	+ Icefang Rendwarden
+	+ Icefang Bonemender
+	+ Icefang Frostcaller
+	+ Icefang Frostrake
+	+ Tormented Spirit

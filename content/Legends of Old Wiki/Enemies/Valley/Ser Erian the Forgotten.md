@@ -11,3 +11,4 @@ This boss is of the SerErian genus and will share its loot table with others of 
 
 - Known Loot:
 	- [[Oathbreaker]]
+	- [[Staff of Unfinished Duty]]
