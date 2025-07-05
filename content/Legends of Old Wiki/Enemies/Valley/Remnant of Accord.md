@@ -9,6 +9,6 @@ This boss is much more difficult than he appears with a very large health pool a
 
 This boss is of the Remnant of Accord genus and will share its loot table with others of its kind.
 
-- Known Loot:
+- Known Drops:
 	- [[Core of Unfinished Duty]]
 	- [[Pendant of the Old Keep]]

@@ -55,5 +55,3 @@ tags: []
 	- #plate_armor/plate_Helmets
 	- #plate_armor/plate_Leggings
 	- #plate_armor/plate_Chestpieces 
-
-#plate_armor/plate_Chestpieces 

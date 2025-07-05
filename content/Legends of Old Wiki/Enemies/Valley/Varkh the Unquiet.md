@@ -9,6 +9,6 @@ This boss is a centurion type enemy that will attempt to reposition itself behin
 
 This boss is of the Varkh genus and will share its loot table with others of its kind.
 
-- Known Loot:
+- Known Drops:
 	- [[Varkh's Chain Gauntlets]]
 	- [[Tarnished Knightblade]]

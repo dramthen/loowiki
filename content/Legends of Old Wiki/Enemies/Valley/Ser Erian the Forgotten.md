@@ -9,6 +9,6 @@ This boss is a hexer type enemy. If you do not interrupt or overwise overpower h
 
 This boss is of the SerErian genus and will share its loot table with others of its kind.
 
-- Known Loot:
+- Known Drops:
 	- [[Oathbreaker]]
 	- [[Staff of Unfinished Duty]]
