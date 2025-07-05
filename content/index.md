@@ -18,6 +18,6 @@ Please see the following sections for more information:
 
 - [[Disenchanting]] - [[Shards]]
 - [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a>
-- [[Enemies]] - <a href="./Legends-of-Old-Wiki/Items/">by Zone</a>
+- [[Enemies]] - <a href="./Legends-of-Old-Wiki/Enemies/">by Zone</a>
 
 + [[Patch Notes]]
