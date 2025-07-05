@@ -6,7 +6,7 @@ tags:
 ---
 ![[Frost_Keep_Zone.png|800]]
 
-The Frost Keep is located in an unknown arctic area, covered in ice and snow. Only hardy creatures survive here such as the clan of Icefang gnolls, the Ice Golems, the Snow Crawlers, and of course the undead. The area seems to hold many secrets and treasures.
+The Frost Keep is located in an unknown arctic area, covered in ice and snow. Only hardy creatures survive here such as the clan of Icefang gnolls, the Ice Golems, the Snow Crawlers, and of course the undead. The area seems to hold many secrets and treasures. Accessible at level 15.
 
 - Bosses
 	- [[The Pale Lament]]
