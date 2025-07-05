@@ -11,4 +11,4 @@ tags:
 - Agility: 3
 - Magic Resist: 4
 
-Dropped from Coagulite Haunt Bosses
+Dropped from Eptumkel Bosses

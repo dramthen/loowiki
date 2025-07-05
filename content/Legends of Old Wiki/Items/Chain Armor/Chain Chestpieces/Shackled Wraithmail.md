@@ -13,4 +13,4 @@ tags:
 - Intelligence: 5
 - Arcane: 4
 
-Dropped from Coagulite Haunt Bosses
+Dropped from Eptumkel Bosses

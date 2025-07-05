@@ -12,4 +12,4 @@ tags:
 - Dexterity: 3
 - Arcane: 3
 
-Dropped from Coagulite Haunt Bosses
+Dropped from Eptumkel Bosses

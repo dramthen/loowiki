@@ -19,7 +19,7 @@ title: by Boss Genus
 	+ #genus/blackdeath 
 	+ #genus/mushroomman 
 	+ #genus/goldenGiant 
-	+ #genus/coagulite_haunt 
+	+ #genus/eptumkel 
 	+ #genus/kelva 
 
 - [[Frost Keep (Zone 3)]]
