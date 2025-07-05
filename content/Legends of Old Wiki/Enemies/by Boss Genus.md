@@ -2,7 +2,7 @@
 title: by Boss Genus
 ---
 - [[Valley (Zone 1)]]:
-	- #genus/ravari 
+	- #genus/ravari
 	- #genus/mudman 
 	- #genus/slime 
 	- #genus/zombie 
