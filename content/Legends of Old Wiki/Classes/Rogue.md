@@ -13,5 +13,57 @@ tags:
   </div>
 </div>
 
+*Skill info incomplete below*
 
-Rogue info coming soon.
+- Melee Styles
+	- Rake
+		- Endurance:
+		- Effect: Deals increased damage and a large evasion bonus for a short duration.
+		- Requirement?: None
+	-  Skewer
+		- Endurance:
+		- Effect: Deals increased damage.
+		- Requirement?: Only after an Evade
+	- Eviscerate
+		- Endurance:
+		- Effect: Deals increase damage and applies a small but rapid Poison damage over time
+		- Requirement?: Only after a successful Skewer
+	- Backstab
+		- Endurance:
+		- Effect: Deals increased damage
+		- Requirement?: Must be behind target
+	- Perforation
+		- Endurance:
+		- Effect: Deals increased damage and additional instant Poison damage
+		- Requirement?: Only after a successful Backstab
+
++ Toxicology
+	+ Poison Weapon
+		+ Mana:
+		+ Cooldown: 8 seconds
+		+ Effect: Applies a buff where your next melee attack deals additional instant Poison damage.
+	- Snare Weapon
+		- Mana:
+		- Duration: 18 seconds
+		- Cooldown: 8 seconds
+		- Effect: Applies a buff where your next melee attack applies a snare
+
+- Munitions:
+	- Fire Bomb
+		- Mana:
+		- Duration: (Bugged, DoT not applied)
+		- Cooldown: 28 seconds
+		- Effect: Throws a bomb at the targeted enemy, dealing Fire Damage and applying a Fire Damage over Time effect.
+	- Voltaxic Bomb
+		- Mana:
+		- Cooldown: 28 seconds
+		- Effect: Throws a bomb at the targeted enemy, dealing Lightning Damage
+	- Stun Bomb
+		- Mana:
+		- Duration: 4 seconds
+		- Cooldown: 28 seconds
+		- Effect: Throws a bomb at the target, stunning them for a short time
+	- Distract-o-matic
+		- Mana:
+		- Cooldown: 28 seconds
+		- Effect: Throws a bomb at the target, greatly reducing the Rogues threat toward the target

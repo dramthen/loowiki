@@ -27,4 +27,4 @@ title: by Boss Genus
 	- #genus/gnollKing
 	- #genus/frozenHaunt
 	- #genus/frozenSpider
-	- #genus/Titan
+	- #genus/titan

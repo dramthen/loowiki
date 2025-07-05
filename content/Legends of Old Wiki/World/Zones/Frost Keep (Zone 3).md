@@ -2,7 +2,6 @@
 title: Frost Keep (Zone 3)
 tags:
   - Zones
-  - TBD
 ---
 ![[Frost_Keep_Zone.png|800]]
 
@@ -13,7 +12,7 @@ The Frost Keep is located in an unknown arctic area, covered in ice and snow. On
 	- [[Spectral Jailer]]
 	- [[Corpseweaver Ghraaz]]
 	- [[Shira Snowbane]]
-	- [[Thalnar the Pale]]
+	- [[Thalnar The Pale]]
 	- [[Narakka Windshiver]]
 	- [[King Snarlfist IV]]
 	- [[Ice Golem + Ice Golem x3]]
