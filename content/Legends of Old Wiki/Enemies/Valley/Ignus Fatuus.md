@@ -11,15 +11,15 @@ Ignus will reposition himself to cast spells. While he has a low health pool, if
 
 This boss is of the Corpse Light genus and will share its loot table with others of its kind.
 
-Known Drops:
-- Level 1+
-	- [[Boots of Swirling]]
-	- [[Leggings of Swirling]]
-	- [[Sleeves of Swirling]]
-	- [[Gloves of Swirling]]
-- Level 8+
-	- [[Gloves of Turbulence]]
-	- [[Boots of Turbulence]]
-	- [[Leggings of Turbulence]]
-	- [[Sleeves of Turbulence]]
-	- [[Robe of Turbulence]]
+- Known Drops:
+	- Level 1+
+		- [[Boots of Swirling]]
+		- [[Leggings of Swirling]]
+		- [[Sleeves of Swirling]]
+		- [[Gloves of Swirling]]
+	- Level 8+
+		- [[Gloves of Turbulence]]
+		- [[Boots of Turbulence]]
+		- [[Leggings of Turbulence]]
+		- [[Sleeves of Turbulence]]
+		- [[Robe of Turbulence]]

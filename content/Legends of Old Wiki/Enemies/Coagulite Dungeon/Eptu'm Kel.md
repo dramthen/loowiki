@@ -9,8 +9,8 @@ Eptu'm Kel is a caster and will attempt to reposition himself to cast. If you do
 
 This boss is of the Coagulite Haunt genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Veilpiercer]]
-- [[Shackled Wraithmail]]
-- [[Vambraces of the Lost]]
-- [[Hauntwoven Helmet]]
+- Known Drops:
+	- [[Veilpiercer]]
+	- [[Shackled Wraithmail]]
+	- [[Vambraces of the Lost]]
+	- [[Hauntwoven Helmet]]

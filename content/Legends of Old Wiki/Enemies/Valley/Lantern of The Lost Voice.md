@@ -9,5 +9,5 @@ This boss is a caster type enemy. If you do not interrupt or overwise overpower 
 
 This boss is of the Lantern of the Lost Voice genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Hat of False Fire]]
+- Known Drops:
+	- [[Hat of False Fire]]

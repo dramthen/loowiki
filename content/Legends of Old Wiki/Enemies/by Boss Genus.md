@@ -1,17 +1,25 @@
 ---
 title: by Boss Genus
-tags:
-  - "#genus/slime"
-  - "#genus/mudman"
-  - "#genus/ravari"
-  - "#genus/zombie"
-  - "#genus/super_boss"
-  - "#genus/ghost_haunt"
-  - "#genus/corpse_light"
-  - genus/Varkh
-  - genus/sererian
-  - genus/blackdeath
-  - genus/mushroomman
-  - genus/spidermagus
-  - genus/lanternofthelostvoice
 ---
+- [[Valley (Zone 1)]]:
+	- #genus/ravari 
+	- #genus/mudman 
+	- #genus/slime 
+	- #genus/zombie 
+	- #genus/corpse_light 
+	- #genus/varkh 
+	- #genus/sererian 
+	- #genus/lanternofthelostvoice 
+	- #genus/vareth 
+
++ [[Coagulite Dungeon (Zone 2)]]
+	+ #genus/coagulite 
+	+ #genus/slime 
+	+ #genus/blackdeath 
+	+ #genus/mushroomman 
+	+ #genus/goldenGiant 
+	+ #genus/coagulite_haunt 
+	+ #genus/kelva 
+
+- [[Frost Keep (Zone 3)]]
+	- tbd

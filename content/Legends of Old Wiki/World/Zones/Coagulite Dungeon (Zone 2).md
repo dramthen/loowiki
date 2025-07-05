@@ -19,7 +19,7 @@ The Coagulite Dungeon is found deep in marshland, with a large fortress structur
 	- [[Eptu'm Kel]]
 	- [[Kelva]]
 
-- Enemies
++ Enemies
 	- Moldy Slime
 	- Deepvein Crawler
 	- Coagulite Skirmisher

@@ -12,7 +12,7 @@ It is best to avoid using damage over time and when the damage shield is applied
 
 This boss is of the Mushroom Man genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Mycelial Fang]]
-- [[Crown of the Verdant Plague]]
-- [[Kapkrush]]
+- Known Drops:
+	- [[Mycelial Fang]]
+	- [[Crown of the Verdant Plague]]
+	- [[Kapkrush]]

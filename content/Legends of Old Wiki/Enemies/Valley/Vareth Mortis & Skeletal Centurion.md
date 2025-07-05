@@ -2,6 +2,7 @@
 title: Vareth Mortis & Skeletal Centurion
 tags:
   - genus/super_boss
+  - genus/vareth
 ---
 This boss is considered the Super Boss of the Valley.
 
@@ -11,5 +12,5 @@ Skeletal Centurion is considered a regular enemy and will drop regular loot.
 
 Vareth is a super boss and has an exclusive loot table.
 
-Known Drops:
-- [[Magebane]]
+- Known Drops:
+	- [[Magebane]]

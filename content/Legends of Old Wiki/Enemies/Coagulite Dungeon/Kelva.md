@@ -2,6 +2,7 @@
 title: Kelva
 tags:
   - genus/super_boss
+  - genus/kelva
 ---
 This boss is considered the Super Boss of the Coagulite Dungeon.
 
@@ -9,9 +10,9 @@ Located at the deepest point of the dungeon, reaching him requires considerable 
 
 Kelva is a super boss and has an exclusive loot table.
 
-Known Drops:
-- [[Staff of One-Eye]]
-- [[Rigwald's Wrap]]
-- [[Thoughtcoil]]
-- [[Mantle of Dominion]]
-- [[Robe of Crimson Blaze]]
+- Known Drops:
+	- [[Staff of One-Eye]]
+	- [[Rigwald's Wrap]]
+	- [[Thoughtcoil]]
+	- [[Mantle of Dominion]]
+	- [[Robe of Crimson Blaze]]

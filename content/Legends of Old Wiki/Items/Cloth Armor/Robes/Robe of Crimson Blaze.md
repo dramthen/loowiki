@@ -3,7 +3,7 @@ title: Robe of Crimson Blaze
 tags:
   - cloth_armor/Robes
   - effect/manaRegen
-  - effectfireDamage
+  - effect/fireDamage
 ---
 - Cloth Robe
 - Absorbtion: 6

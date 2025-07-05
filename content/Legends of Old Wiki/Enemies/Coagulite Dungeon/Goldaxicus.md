@@ -9,7 +9,7 @@ Goldaxicus has a large health pool, while a standard warrior mob, he deals high 
 
 This boss is of the Golden Giant genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Goldaxicus' Cleaver]]
-- [[Goldaxicus' Sword]]
-- [[Goldaxicus' Cuirass]]
+- Known Drops:
+	- [[Goldaxicus' Cleaver]]
+	- [[Goldaxicus' Sword]]
+	- [[Goldaxicus' Cuirass]]

@@ -10,10 +10,13 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Book 1|Book 1]]
 	- [[Book 2|Book 2]]
 	- [[Book 3|Book 3]]
-- [[Valley (Zone 1)]] Books
+
++ [[Valley (Zone 1)]] Books
 	- [[Graveyard Book]]
 	- [[Ruined Tower Book]]
 	- [[Ancient Librarians' Book]]
 	- [[Vortis' Memoir]]
+
 - [[Coagulite Dungeon (Zone 2)]] Books
-- [[Frost Keep (Zone 3)]] Books
+
++ [[Frost Keep (Zone 3)]] Books

@@ -11,7 +11,7 @@ Muck is considered named and will drop items from the drop table, Mire is not co
 
 This boss is of the Slime genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Yucky Bracer]]
-- [[Mucky Necklace]]
-- [[Slimey Ring]]
+- Known Drops:
+	- [[Yucky Bracer]]
+	- [[Mucky Necklace]]
+	- [[Slimey Ring]]

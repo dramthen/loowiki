@@ -9,10 +9,10 @@ Gorvrax has a large health pool, while a standard warrior mob, he deals addition
 
 This boss is of the Coagulite genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Ring of Thrombotic Will]]
-- [[Sleeves of Clotting]]
-- [[Gloves of Soft Rot]]
-- [[Jerkin of Living Slime]]
-- [[Mace of Yielding Flesh]]
-- [[Boots of Viscera]]
+- Known Drops:
+	- [[Ring of Thrombotic Will]]
+	- [[Sleeves of Clotting]]
+	- [[Gloves of Soft Rot]]
+	- [[Jerkin of Living Slime]]
+	- [[Mace of Yielding Flesh]]
+	- [[Boots of Viscera]]

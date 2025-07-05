@@ -9,12 +9,12 @@ The Ravari Soldier is not considered named but is the more difficult one to kill
 
 This boss is of the Ravari genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Sleeves of Avia]]
-- [[Leggings of Avia]]
-- [[Skullcap of Avia]]
-- [[Boots of Avia]]
-- [[Gloves of Avia]]
-- [[Tunic of Avia]]
-- [[Dagger of Redbeak]]
-- [[Chainshirt of Healing]]
+- Known Drops:
+	- [[Sleeves of Avia]]
+	- [[Leggings of Avia]]
+	- [[Skullcap of Avia]]
+	- [[Boots of Avia]]
+	- [[Gloves of Avia]]
+	- [[Tunic of Avia]]
+	- [[Dagger of Redbeak]]
+	- [[Chainshirt of Healing]]

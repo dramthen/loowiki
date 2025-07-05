@@ -11,9 +11,9 @@ Plaguewretch has no special abilities.
 
 This boss is of the Zombie genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Putrid Walkers]]
-- [[Rot Wraps]]
-- [[Knife of Festering]]
-- [[Shroud of the Lurker]]
-- [[Ghoulmight]]
+- Known Drops:
+	- [[Putrid Walkers]]
+	- [[Rot Wraps]]
+	- [[Knife of Festering]]
+	- [[Shroud of the Lurker]]
+	- [[Ghoulmight]]

@@ -64,7 +64,7 @@ tags:
 	- Blood Sacrifice
 		- Mana:
 		- Cooldown: None
-		- Effect: Deals a small amount of physical damage to the Reaver to deal disease damage to the target. The self-inflicted damage can be mitigated with armor.
+		- Effect: Deals a small amount of physical damage to the Reaver to deal disease damage to the target. The self-inflicted damage can be mitigated with armor. This ability additionally deals high threat.
 - Malediction:
 	- Wave of Enfeeblement
 		- Mana:

@@ -9,7 +9,7 @@ The Spider Magus is a caster and will attempt to reposition himself to cast. If 
 
 This boss is of the Spider Magus genus and will share its loot table with others of its kind.
 
-Known Drops:
-- [[Silkspun Belt]]
-- [[Magus' Stud]]
-- [[Spinner's Sleeves]]
+- Known Drops:
+	- [[Silkspun Belt]]
+	- [[Magus' Stud]]
+	- [[Spinner's Sleeves]]

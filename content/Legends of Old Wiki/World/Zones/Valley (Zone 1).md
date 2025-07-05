@@ -25,7 +25,7 @@ A vast new area has opened deep within the cave system, filled with various unde
 	- [[Lantern of The Lost Voice]]
 	- [[Vareth Mortis & Skeletal Centurion]]
 
-- Enemies:
++ Enemies:
 	- Ravari Scout
 	- Ravari Forager
 	- Ravari Archer
