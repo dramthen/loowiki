@@ -17,7 +17,7 @@ Please see the following sections for more information:
 	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]]
 
 - [[Disenchanting]] - [[Shards]]
-- [[Equipment]] -  <a href="./loowiki/Legends-of-Old-Wiki/Items/">by Slot</a>
-- [[Enemies]] - <a href="./loowiki/Legends-of-Old-Wiki/Items/">by Zone</a>
+- [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a>
+- [[Enemies]] - <a href="./Legends-of-Old-Wiki/Items/">by Zone</a>
 
 + [[Patch Notes]]

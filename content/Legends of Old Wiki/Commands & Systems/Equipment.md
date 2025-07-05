@@ -8,4 +8,4 @@ Both named and non-named items can rarely have additional modifiers on them (som
 
 While all classes can use cloth, some can use leather, others will learn to use Chain at level 8, and Plate at level 12 if able.
 
-Search equipment <a href="./loowiki/Legends-of-Old-Wiki/Items/">by Slot</a>
+Search equipment <a href="./Legends-of-Old-Wiki/Items/">by Slot</a>
