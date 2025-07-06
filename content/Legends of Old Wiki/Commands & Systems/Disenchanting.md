@@ -5,7 +5,7 @@ tags:
 <div class="top-align-container">
   <img src="Disenchant_Bench.png" alt="Disenchant Bench" style="width:250px;height:200px;">
   <div>
-    The disenchanting table found in the <a href="./Legends-of-Old-Wiki/World/Zones/Nexus">Nexus</a> allows you to take three unwanted <a href="./Legends-of-Old-Wiki/Commands--and--Systems/Equipment">equipment</a>, or two plus a <a href="./Legends-of-Old-Wiki/Commands--and--Systems/Shards">shard</a> to generate new random equipment. The generated item is slightly weighted based on input and is scaled within your characters level - not the average level of the input items.<br><br>
+    The disenchanting table found in the <a href="./Legends-of-Old-Wiki/World/Zones/Nexus">Nexus</a> allows you to take three unwanted <a href="./Legends-of-Old-Wiki/Combat/Equipment">equipment</a>, or two plus a <a href="./Legends-of-Old-Wiki/Commands--and--Systems/Shards">shard</a> to generate new random equipment. The generated item is slightly weighted based on input and is scaled within your characters level - not the average level of the input items.<br><br>
     Using completely random equipment will generate a completely random output.
   </div>
 </div>
