@@ -12,3 +12,4 @@ This boss is of the Varkh genus and will share its loot table with others of its
 - Known Drops:
 	- [[Varkh's Chain Gauntlets]]
 	- [[Tarnished Knightblade]]
+	- [[Shield of House Alune]]
