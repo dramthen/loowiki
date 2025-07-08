@@ -15,4 +15,4 @@ tags:
 |       Arcane | 3         |
 |              |           |
 
-Dropped from Eptumkel Bosses, see Backlinks for specific enemies
+Dropped from Eptu'm Kel Bosses, see Backlinks for specific enemies

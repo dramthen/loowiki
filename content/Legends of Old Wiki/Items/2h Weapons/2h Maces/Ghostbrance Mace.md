@@ -9,7 +9,7 @@ tags:
 
 |                          2h Mace[^1] |     |
 | -----------------------------------: | :-- |
-|                               Damage | 21  |
+|                               Damage | 18  |
 |                                Delay | 5.4 |
 |                           Hit Points | 15  |
 |                             Strength | 9   |
