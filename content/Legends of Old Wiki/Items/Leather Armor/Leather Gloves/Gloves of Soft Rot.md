@@ -13,5 +13,6 @@ tags:
 |    Stamina | 3      |
 |  Dexterity | 5      |
 |    Agility | 6      |
+|            |        |
 
 Dropped from Coagulite Bosses, see Backlinks for specific enemies

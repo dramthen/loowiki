@@ -10,5 +10,6 @@ tags:
 |     Evasion% | 3      |
 | Intelligence | 3      |
 |    Dexterity | 2      |
+|              |        |
 
 Dropped from Zombie Bosses, see Backlinks for specific enemies

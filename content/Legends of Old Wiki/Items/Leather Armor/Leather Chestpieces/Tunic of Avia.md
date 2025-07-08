@@ -13,5 +13,6 @@ tags:
 |    Stamina | 2          |
 |  Dexterity | 2          |
 |    Agility | 2          |
+|            |            |
 
 Dropped from Ravari Bosses, see Backlinks for specific enemies

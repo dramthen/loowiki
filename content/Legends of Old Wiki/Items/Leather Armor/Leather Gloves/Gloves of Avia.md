@@ -10,5 +10,6 @@ tags:
 |   Hit Points | 2      |
 | Intelligence | 4      |
 |    Dexterity | 3      |
+|              |        |
 
 Dropped from Ravari Bosses, see Backlinks for specific enemies

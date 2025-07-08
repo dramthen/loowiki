@@ -9,5 +9,6 @@ tags:
 |  Negation | 1     |
 |  Evasion% | 3     |
 | Dexterity | 6     |
+|           |       |
 
 Dropped from Ravari Bosses, see Backlinks for specific enemies

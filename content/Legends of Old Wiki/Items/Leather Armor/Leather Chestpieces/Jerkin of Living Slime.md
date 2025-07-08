@@ -15,5 +15,6 @@ tags:
 |                        Agility | 9          |
 |                  Poison Resist | 7          |
 | [[Item Effects\|Amelioration]] | Proc       |
+|                                |            |
 
 Dropped from Coagulite Bosses, see Backlinks for specific enemies

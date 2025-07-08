@@ -13,5 +13,6 @@ tags:
 | Intelligence | 2     |
 |    Dexterity | 3     |
 |      Agility | 3     |
+|              |       |
 
 Dropped from Zombie Bosses, see Backlinks for specific enemies
