@@ -2,7 +2,6 @@
 title: The Moldmaster
 tags:
   - genus/mushroomman
-  - TBD
 ---
 This boss is located at the deepest point of the mushroom caves.
 

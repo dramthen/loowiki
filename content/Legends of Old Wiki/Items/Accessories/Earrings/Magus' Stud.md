@@ -4,10 +4,13 @@ tags:
   - accessories/Earrings
   - effect/magicDamage
 ---
-- Earring
-- Intelligence: 2
-- Dexterity: 5
-- Arcane: 3
-- +20% magic damage
 
-Drop by Spider Magus Bosses
+|                      Accessory | Earrings |
+| -----------------------------: | :------- |
+|                   Intelligence | 2        |
+|                      Dexterity | 5        |
+|                         Arcane | 3        |
+| [[Item Effects\|Magic Damage]] | 20%      |
+|                                |          |
+
+Dropped from Spider Magus Bosses, see Backlinks for specific enemies

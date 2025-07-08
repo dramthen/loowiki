@@ -3,10 +3,14 @@ title: Mantle of Forgotten Winds
 tags:
   - accessories/Cloaks
 ---
-- Cloak
-- Evasion%: 1
-- Strength: 3
-- Stamina: 2
-- Dexterity: 1
 
-Drops from Ghost Haunt Bosses
+| Accessory | Cloak |
+| --------: | :---- |
+|  Evasion% | 1     |
+|  Strength | 3     |
+|   Stamina | 2     |
+| Dexterity | 1     |
+|           |       |
+
+
+Dropped from Ghost Haunt Bosses, see Backlinks for specific enemies

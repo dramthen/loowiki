@@ -1,7 +1,6 @@
 ---
 title: Reaver
 tags:
-  - TBD
   - Classes
 ---
 <div class="top-align-container">
@@ -88,11 +87,11 @@ tags:
 		- Effect: Lowers the targets casting speed, giving more time for interrupts.
 	- Drukthal's Cunning
 		- Mana: 23~
-		- Duration: 12-18 seconds(?)
+		- Duration: 30 seconds(?)
 		- Cooldown: 30 seconds
 		- Effect: Applies a curse on the target. While cursed, if the enemy recieves enough damage from any source they will become stunned for 5 seconds.
 	- Urtak's Verdict
 		- Mana: 23~
-		- Duration: 12-18 seconds(?)
+		- Duration: 30 seconds(?)
 		- Cooldown: 30 seconds
 		- Effect: Applies a curse on the target. While cursed, if the enemy recieves enough damage from any source they will be dealt 5% of their max health in poison damage.

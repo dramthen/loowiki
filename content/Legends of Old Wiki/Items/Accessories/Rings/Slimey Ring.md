@@ -3,8 +3,11 @@ title: Slimey Ring
 tags:
   - accessories/Rings
 ---
-- Ring
-- Strength: 2
-- Dexterity: 3
 
-Dropped by Slime Bosses
+| Accessory | Ring |
+| --------: | :--- |
+|  Strength | 2    |
+| Dexterity | 3    |
+|           |      |
+
+Dropped from Slime Bosses, see Backlinks for specific enemies

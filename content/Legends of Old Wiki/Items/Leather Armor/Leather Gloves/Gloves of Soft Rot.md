@@ -3,11 +3,15 @@ title: Gloves of Soft Rot
 tags:
   - leather_armor/leather_Gloves
 ---
-- Leather Gloves
-- Hit Points: 3
-- Mana: 3
-- Stamina: 3
-- Dexterity: 5
-- Agility: 6
 
-Dropped from Coagulite Bosses
+|    Leather | Gloves |
+| ---------: | :----- |
+|   Negation | 1      |
+|   Evasion% | 4      |
+| Hit Points | 3      |
+|       Mana | 3      |
+|    Stamina | 3      |
+|  Dexterity | 5      |
+|    Agility | 6      |
+
+Dropped from Coagulite Bosses, see Backlinks for specific enemies

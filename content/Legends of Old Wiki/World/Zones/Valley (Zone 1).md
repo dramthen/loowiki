@@ -19,7 +19,7 @@ A vast new area has opened deep within the cave system, filled with various unde
 	- [[Plaguewretch]]
 	- [[Tremor]]
 	- [[Muck & Mire]]
-	- [[Remnant of Accord]]
+	- [[Remant of Accord]]
 	- [[Varkh the Unquiet]]
 	- [[Ser Erian the Forgotten]]
 	- [[Lantern of The Lost Voice]]

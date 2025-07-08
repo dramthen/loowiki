@@ -3,9 +3,12 @@ title: Frost-Cracked Bracer
 tags:
   - accessories/Bracers
 ---
-- Bracer
-- Hit Points: 15
-- Strength: 3
-- Stamina: 4
 
-Drops from Gnoll bosses.
+|  Accessory | Bracers |
+| ---------: | :------ |
+| Hit Points | 15      |
+|   Strength | 2       |
+|    Stamina | 4       |
+|            |         |
+
+Dropped from Gnoll Bosses, see Backlinks for specific enemies

@@ -4,10 +4,13 @@ tags:
   - accessories/Cloaks
   - effect/ArcaneRenewal
 ---
-- Cloak
-- Absorbtion: 1
-- Hit Points: 3
-- Strength: 1
-- Arcane Renewal
 
-Dropped by Mudman Bosses
+|                        Accessory | Cloak |
+| -------------------------------: | :---- |
+|                       Absorbtion | 1     |
+|                       Hit Points | 3     |
+|                         Strength | 1     |
+| [[Item Effects\|Arcane Renewal]] | Proc  |
+|                                  |       |
+
+Dropped from Mudman Bosses, see Backlinks for specific enemies

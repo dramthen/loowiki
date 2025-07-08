@@ -3,6 +3,7 @@ title: Ice Golem
 tags:
   - genus/titan
   - "#bug"
+  - genus/super_boss
 ---
 This boss is located deep in the Frost Keep, heading straight after crossing the bridge and following the winding path through the keep past the [[Spectral Jailer]]. Eventually you'll enter an ice cave with Ice Titans, this boss will be found shortly after them.
 

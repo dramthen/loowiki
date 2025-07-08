@@ -4,11 +4,14 @@ tags:
   - cloth_armor/Robes
   - effect/coldDamage
 ---
-- Cloth Armor
-- Negation: 3
-- Intelligence: 10
-- Dexterity: 10
-- Arcane: 10
-- +20% Cold Damage
 
-Drops from Gnoll bosses.
+|                         Cloth | Robes |
+| ----------------------------: | :---- |
+|                      Negation | 3     |
+|                  Intelligence | 10    |
+|                     Dexterity | 10    |
+|                        Arcane | 10    |
+| [[Item Effects\|Cold Damage]] | 20%   |
+|                               |       |
+
+Dropped from Gnoll Bosses, see Backlinks for specific enemies
