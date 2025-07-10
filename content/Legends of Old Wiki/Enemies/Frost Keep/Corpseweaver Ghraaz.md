@@ -13,3 +13,4 @@ This boss is of the Frozen Spider genus and will share its loot table with other
 	- [[Matron's Envy]]
 	- [[Grasp of the Weaver]]
 	- [[Fangspiked Staff]]
+	- [[Silkwoven Husk]]

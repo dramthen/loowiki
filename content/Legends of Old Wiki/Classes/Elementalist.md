@@ -7,8 +7,9 @@ tags:
   <img src="Elementalist_Symbol.png" alt="Elementalist">
   <div>
     The Elementalist can summon various elemental pets, has the very potent Windlace spell, various nukes, and Ice Block for powerful crowd control. Extremely low health with high damage output and burst potential until out of mana. High AoE damage with Ice Sphere when combined with a Reaver in the party.<br><br>
-	With a verity of pets the Fire Elemental offers high single target damage when placed behind the target with Windlace applied, the Earth Elemental offering a sturdy health pool and the ability to snare enemies, while the non-combatant Ice Elemental strengthens your Ice Block for even more potent crowd control<br><br>
-	The Elementalist can only wear cloth type armor. Wields two-handed staffs.
+	With a verity of pets the Fire Elemental offers high single target damage when placed behind the target with Windlace applied, the Earth Elemental offering a sturdy health pool and the ability to snare enemies, while the non-combatant Ice Elemental strengthens your Ice Block for even more potent crowd control.<br><br>
+	The Elementalist can only wear cloth type armor. Wields two-handed staffs.<br><br>
+	For soloing purposes, the Elementalist is very powerful until taking on the most difficult enemies in the game as their pet cannot handle the damage output from them.
   </div>
 </div>
 
