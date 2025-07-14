@@ -29,7 +29,7 @@ Currently, [[Equipment|random items]] cannot have any "proc", but <a href="./Leg
 	- Anger
 		- Chance when hit to retaliate with Fire Damage
 	- Stormdrinker
-		- Chance on attack to deal Lightning Damage based on Dexterity
+		- Chance on attack to deal Lightning Damage equal to twice your Intelligence
 	- Magebane
 		- Chance on attack to deal Pure Damage
 

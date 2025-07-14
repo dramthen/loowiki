@@ -11,4 +11,4 @@ tags:
 | Dexterity | 6     |
 |           |       |
 
-Dropped from Ravari Bosses, see Backlinks for specific enemies
+Dropped by [[Ravari Soldier & Ravari Captain|Ravari Captain]].

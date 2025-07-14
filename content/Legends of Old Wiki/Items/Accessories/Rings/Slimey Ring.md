@@ -10,4 +10,4 @@ tags:
 | Dexterity | 3    |
 |           |      |
 
-Dropped by [[Muck & Mire|Mire]].
+Dropped by [[Muck & Mire]].

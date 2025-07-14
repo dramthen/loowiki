@@ -11,4 +11,4 @@ tags:
 |   Strength | 2        |
 |            |          |
 
-Dropped by [[Mucky Necklace|Muck]].
+Dropped by [[Muck & Mire]].

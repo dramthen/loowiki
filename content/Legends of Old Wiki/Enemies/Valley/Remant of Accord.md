@@ -10,5 +10,6 @@ This boss is much more difficult than he appears with a very large health pool a
 
 - Known Drops:
 	- [[Pendant of the Old Keep]]
+	- [[Core of Unfinished Duty]]
 
 ***Bug: Remnant of Accord is missing an 'n' in his name.***

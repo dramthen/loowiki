@@ -7,3 +7,4 @@ tags:
 This boss is located within the mushroom caves and is in an area that [[The Black Death]] wanders through.
 
 - Known Drops:
+	- [[Gloves of Soft Rot]]

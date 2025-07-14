@@ -13,4 +13,4 @@ tags:
 | Lightning Resist | 2       |
 |                  |         |
 
-Dropped from Remnant of Accord, see Backlinks for specific enemies
+Dropped by [[Remant of Accord]].

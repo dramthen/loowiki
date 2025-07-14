@@ -15,4 +15,4 @@ tags:
 |    Agility | 6      |
 |            |        |
 
-Dropped from Coagulite Bosses, see Backlinks for specific enemies
+Dropped by [[Thuk the Festering Muck]]

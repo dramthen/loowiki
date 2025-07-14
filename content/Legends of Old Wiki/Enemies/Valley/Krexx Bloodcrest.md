@@ -10,3 +10,5 @@ This boss is relatively easy and is a single pull.
 
 - Known Drops:
 	- [[Obsidian Band]]
+	- [[Moonleaf Medallion]]
+	- [[Mantle of Black Feathers]]

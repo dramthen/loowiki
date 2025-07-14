@@ -9,7 +9,9 @@ They are socially linked and will pull together, it would be advisable to crowd 
 
 - Known Drops (Muck):
 	- [[Mucky Necklace]]
+	- [[Slimey Ring]]
 
 + Known Drops (Mire):
+	+ [[Mucky Necklace]]
 	+ [[Yucky Bracer]]
 	+ [[Slimey Ring]]

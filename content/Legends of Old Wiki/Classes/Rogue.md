@@ -27,8 +27,13 @@ tags:
 		- Requirement?: Only after an Evade
 	- Eviscerate
 		- Endurance:
-		- Effect: Deals increase damage and applies a small but rapid Poison damage over time
+		- Effect: Deals increased damage and applies a small but rapid Poison damage over time
 		- Requirement?: Only after a successful Skewer
+	- Breaking Point
+		- Endurance:
+		- Duration: 5 seconds
+		- Effect: Deals increased damage and stuns the target
+		- Requirement?: Only after a successful Eviscerate
 	- Backstab
 		- Endurance:
 		- Effect: Deals increased damage
@@ -48,6 +53,11 @@ tags:
 		- Duration: 18 seconds
 		- Cooldown: 8 seconds
 		- Effect: Applies a buff where your next melee attack applies a snare
+	- Incapacitating Ichor
+		- Mana:
+		- Duration: 12 seconds
+		- Cooldown: 60 seconds
+		- Effect: Puts a monster to sleep, any damage will wake it up
 
 - Munitions:
 	- Fire Bomb
