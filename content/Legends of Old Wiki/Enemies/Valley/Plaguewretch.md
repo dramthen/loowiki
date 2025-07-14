@@ -11,3 +11,4 @@ Plaguewretch has no special abilities.
 
 - Known Drops:
 	- [[Shroud of the Lurker]]
+	- [[Ghoulmight]]

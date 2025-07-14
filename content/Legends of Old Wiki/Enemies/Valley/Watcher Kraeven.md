@@ -1,6 +1,7 @@
 ---
 title: Watcher Kraeven
 tags:
+  - genus/ravari
 ---
 
 This boss is located in the watcher tower closest to the back wall.

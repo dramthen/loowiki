@@ -7,8 +7,8 @@ tags:
 |     Cloth | Gloves |
 | --------: | :----- |
 |  Negation | 1      |
-|      Mana | 5      |
+|      Mana | 8      |
 | Dexterity | 3      |
 |           |        |
 
-Dropped from Corpse Light Bosses, see Backlinks for specific enemies
+Dropped by [[Ignus Fatuus]].

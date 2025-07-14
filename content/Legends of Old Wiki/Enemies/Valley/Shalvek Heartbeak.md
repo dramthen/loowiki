@@ -1,6 +1,7 @@
 ---
 title: Shalvek Heartbeak
 tags:
+  - genus/ravari
 ---
 
 This boss is located on the high bridge that the [[Ravari Soldier & Ravari Captain]] patrol under, outside of the Ravari Fortress.

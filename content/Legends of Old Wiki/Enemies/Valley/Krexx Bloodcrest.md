@@ -1,6 +1,7 @@
 ---
 title: Krexx Bloodcrest
 tags:
+  - genus/ravari
 ---
 
 This boss is located in the ruined tower shortly into the zone, up the hill on the right.
