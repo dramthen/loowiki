@@ -11,4 +11,4 @@ tags:
 |   Strength | 1     |
 |            |       |
 
-Dropped from Mudman Bosses, see Backlinks for specific enemies
+Dropped by [[Tremor]].

@@ -15,31 +15,31 @@ tags:
 
 - Melee Styles:
 	- Taunt
-		- Endurance: 25~
+		- Endurance:
 		- Effect: An anytime style that deals slightly higher damage and high threat.
 		- Requirement?: None
 	- Eviscerator
-		- Endurance: 30~
+		- Endurance:
 		- Effect: Deals increased damage and threat.
 		- Requirement?: Only from behind
 	- Riposte
-		- Endurance: 25~
+		- Endurance:
 		- Effect: Deals increased damage.
 		- Requirement?: Only after a Parry
 	- Ruin
-		- Endurance: 25~
+		- Endurance:
 		- Effect: Deals increased damage and applies a snare for 18 seconds.
 		- Requirement?: Only after a successful Riposte
 	- Gore Harvest
-		- Endurance: 12~
+		- Endurance:
 		- Effect: Deals damage to all nearby targets, heals a small amount for each enemy hit.
 		- Requirement?: None
 	- Bonebreaker
-		- Endurance: 32~
+		- Endurance:
 		- Effect: Deals increased damage and stuns the target for 5 seconds.
 		- Requirement?: Only from the side
 	- Torpidity
-		- Endurance: 32~
+		- Endurance:
 		- Effect: Deals increased damage and applies a negligible attack speed slow to the target.
 		- Requirement?: Only after a successful Bonebreaker
 - Pestilence:

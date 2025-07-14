@@ -9,4 +9,4 @@ tags:
 | Damage | 6         |
 |  Delay | 5.2       |
 |        |           |
-Dropped by [[Watcher Kraeven]]
+Dropped by [[Watcher Kraeven]].

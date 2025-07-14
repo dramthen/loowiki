@@ -12,4 +12,4 @@ tags:
 | Dexterity | 1     |
 |           |       |
 
-Drops from [[Ancient Librarian]].
+Dropped by [[Ancient Librarian]].

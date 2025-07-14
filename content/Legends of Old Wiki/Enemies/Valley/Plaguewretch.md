@@ -10,3 +10,4 @@ This boss can be pulled alone, but must be done so carefully as it may social li
 Plaguewretch has no special abilities.
 
 - Known Drops:
+	- [[Shroud of the Lurker]]

@@ -12,4 +12,4 @@ tags:
 |  Agility | 2      |
 |          |        |
 
-Dropped from Ravari Bosses, see Backlinks for specific enemies
+Dropped by [[Talok Windsunder]].

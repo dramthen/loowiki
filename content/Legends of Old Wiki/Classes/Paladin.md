@@ -15,27 +15,27 @@ tags:
 
 - **Melee Styles**
 	 - Enrage
-		 - Endurance: 25~
+		 - Endurance:
 		 - Effect: Increases damage by a small amount and creates more threat
 		 - Requirement?: None
 	 - Retaliate
-		 - Endurance: 25~
+		 - Endurance:
 		 - Effect: Increases damage, allows Retribution activation
 		 - Requirement?: Only after a Parry
 	 - Retribution
-		 - Endurance: 25~
+		 - Endurance:
 		 - Effect: Increases damage and applies a snare for 18 seconds
 		 - Requirement?: Only after a successful Retaliate
 	 - Slam
-		 - Endurance: 25~
+		 - Endurance:
 		 - Effect: Increases damage and stuns the target for 4 seconds
 		 - Requirement?: Only after a Block
 	 - Luminael's Vengeance
-		 - Endurance: 20~
+		 - Endurance:
 		 - Effect: Increased damage, allows Luminael's Blessing activation
 		 - Requirement?: Only from the side (with enough Agility and a decent weapon, this can be done in solo play after a Slam!)
 	 - Luminael's Blessing
-		 - Endurance: 20~
+		 - Endurance:
 		 - Effect: Increased damage, provides a small group heal
 		 - Requirement?: Only after a successful Luminael's Vengeance
 - **Sigils (Justice)**

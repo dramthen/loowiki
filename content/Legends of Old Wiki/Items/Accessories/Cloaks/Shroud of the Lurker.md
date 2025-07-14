@@ -11,4 +11,4 @@ tags:
 |    Agility | 3     |
 |            |       |
 
-Dropped from Zombie Bosses, see Backlinks for specific enemies
+Dropped by [[Plaguewretch]].

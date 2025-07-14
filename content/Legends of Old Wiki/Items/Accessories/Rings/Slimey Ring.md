@@ -10,4 +10,4 @@ tags:
 | Dexterity | 3    |
 |           |      |
 
-Dropped from Slime Bosses, see Backlinks for specific enemies
+Dropped by [[Muck & Mire|Mire]].

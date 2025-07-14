@@ -13,4 +13,4 @@ tags:
 |    Agility | 3        |
 |            |          |
 
-Drops from [[Talok Windsunder]].
+Dropped by [[Talok Windsunder]].

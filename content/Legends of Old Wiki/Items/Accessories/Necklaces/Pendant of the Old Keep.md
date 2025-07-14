@@ -9,4 +9,4 @@ tags:
 | Intellgence | 8        |
 |             |          |
 
-Dropped from Remnant of Accord Bosses, see Backlinks for specific enemies
+Dropped by [[Remant of Accord]].

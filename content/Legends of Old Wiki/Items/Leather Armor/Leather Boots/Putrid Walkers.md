@@ -6,7 +6,6 @@ tags:
 
 |      Leather | Boots |
 | -----------: | :---- |
-|   Absorbtion | 3     |
 |     Negation | 1     |
 |     Evasion% | 3     |
 |   Hit Points | 3     |
@@ -15,4 +14,4 @@ tags:
 |      Agility | 3     |
 |              |       |
 
-Dropped from Zombie Bosses, see Backlinks for specific enemies
+Dropped by [[Festulence]].

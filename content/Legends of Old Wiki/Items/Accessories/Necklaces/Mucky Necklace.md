@@ -11,4 +11,4 @@ tags:
 |   Strength | 2        |
 |            |          |
 
-Dropped from Slime Bosses, see Backlinks for specific enemies
+Dropped by [[Mucky Necklace|Muck]].

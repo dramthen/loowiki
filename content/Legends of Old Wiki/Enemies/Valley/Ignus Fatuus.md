@@ -10,3 +10,4 @@ In order to spawn this boss, first, clear the three Haunting Glow's that lead in
 Ignus will reposition himself to cast spells. While he has a low health pool, if you do not interrupt or overwise overpower him his casts can deal significant damage. Snaring him so he takes longer to reposition is also a reliable strategy.
 
 - Known Drops:
+	- [[Robe of Swirling]]

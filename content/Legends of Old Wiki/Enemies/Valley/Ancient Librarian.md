@@ -9,3 +9,4 @@ The Ancient Librarian will reposition himself to cast spells. If you do not inte
 
 - Known Drops:
 	- [[Mantle of Forgotten Winds]]
+	- [[Wraps of The Last Hour]]

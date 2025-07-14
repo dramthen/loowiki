@@ -16,4 +16,4 @@ tags:
 |      Agility | 7      |
 |              |        |
 
-Dropped from Ghost Haunt Bosses, see Backlinks for specific enemies
+Dropped by [[Ancient Librarian]].

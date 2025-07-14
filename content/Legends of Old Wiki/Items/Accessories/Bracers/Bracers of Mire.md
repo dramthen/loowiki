@@ -12,4 +12,4 @@ tags:
 | Poison Reist | 3       |
 |              |         |
 
-Drops from [[Tremor]].
+Dropped by [[Tremor]].

@@ -14,4 +14,4 @@ tags:
 | [[Item Effects\|Stormdrinker]] | Proc    |
 |                                |         |
 
-Dropped from Ravari Bosses, see Backlinks for specific enemies
+Dropped by [[Talok Windsunder]].

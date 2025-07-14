@@ -14,4 +14,4 @@ tags:
 | Disease Resist | 2      |
 |                |        |
 
-Dropped from Lantern of the Lost Voice Bosses, see Backlinks for specific enemies
+Dropped by [[Vaelthar Skyborn]].

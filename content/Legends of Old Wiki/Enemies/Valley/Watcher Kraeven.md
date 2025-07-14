@@ -9,3 +9,5 @@ Since this boss does leap down from its tower, be very careful pulling him as he
 
 - Known Drops:
 	- [[Thick Talon Claw]]
+	- [[Signet of Valor]]
+	- [[Watcher's Skyshard]]
