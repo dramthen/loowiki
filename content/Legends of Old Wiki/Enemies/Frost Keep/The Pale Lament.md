@@ -7,10 +7,4 @@ This boss is located inside the ice caves, a short way into the dungeon, before 
 
 This boss is a caster and seems to rarely summon enemies. If you do not interrupt or overwise overpower him his casts can deal significant damage. Snaring him so he takes longer to reposition is also a reliable strategy.
 
-This boss is of the Frozen Haunt genus and will share its loot table with others of its kind.
-
 - Known Drops:
-	- [[Veilpiercer's Hood]]
-	- [[Wraithiron Shackles]]
-	- [[Ghostbrance Mace]]
-	- [[Chains of Condemnation]]

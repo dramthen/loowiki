@@ -7,10 +7,4 @@ This boss is located down the hall past the ruins near the bridge (don't cross o
 
 This boss is a caster. If you do not interrupt or overwise overpower him his casts can deal significant damage. Snaring him so he takes longer to reposition is also a reliable strategy.
 
-This boss is of the Frozen Spider genus and will share its loot table with others of its kind.
-
 - Known Drops:
-	- [[Matron's Envy]]
-	- [[Grasp of the Weaver]]
-	- [[Fangspiked Staff]]
-	- [[Silkwoven Husk]]

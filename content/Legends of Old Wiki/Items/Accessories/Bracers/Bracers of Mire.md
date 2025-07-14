@@ -12,4 +12,4 @@ tags:
 | Poison Reist | 3       |
 |              |         |
 
-Dropped from Mudman Bosses, see Backlinks for specific enemies
+Drops from [[Tremor]].

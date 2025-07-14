@@ -14,11 +14,12 @@ Currently, [[Equipment|random items]] cannot have any "proc", but <a href="./Leg
 	- Increased Cold Damage[^1][^2]
 	- Increased Fire Damage[^1][^2]
 	- Reduced Endurance Cost
-	- Chance to Avoid Endurance Cost[^1]
+	- Chance to Avoid Endurance Cost
 	- Chance to Avoid Stun
 	- Chance to Critically Strike[^1]
 	- Mana Regen
 	- Spells act as if +1 level higher
+	- +1 to Elemental Pet Level
 
 + Special Proc Effects are as follows:
 	- Arcane Renewal

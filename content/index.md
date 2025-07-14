@@ -17,7 +17,9 @@ Please see the following sections for more information:
 	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]]
 
 - [[Disenchanting]] - [[Shards]]
-- [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a>
+- [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a> - <a href="./Legends-of-Old-Wiki/Items-Pre-Patch/">Pre-Patched by Slot</a>
 - [[Enemies]] - <a href="./Legends-of-Old-Wiki/Enemies/">by Zone</a>
 
 + [[Patch Notes]]
+
+Due to the most recent patch on 7/14/2025 all items have been moved and will be re-added when stats reconfirmed as many bosses and items were changed and added.

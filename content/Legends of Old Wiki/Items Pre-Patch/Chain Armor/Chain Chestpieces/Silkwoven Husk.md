@@ -18,5 +18,6 @@ tags:
 |      Cold Resist | 5          |
 | Lightning Resist | 5          |
 |     Magic Resist | 5          |
+|                  |            |
 
 Dropped from Frozen Spider Bosses, see Backlinks for specific enemies

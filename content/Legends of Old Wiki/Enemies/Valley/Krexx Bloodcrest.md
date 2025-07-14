@@ -1,0 +1,11 @@
+---
+title: Krexx Bloodcrest
+tags:
+---
+
+This boss is located in the ruined tower shortly into the zone, up the hill on the right.
+
+This boss is relatively easy and is a single pull.
+
+- Known Drops:
+	- [[Obsidian Band]]

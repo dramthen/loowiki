@@ -9,11 +9,4 @@ In order to access this boss, clear most of the Ravenous Undead out of the grave
 
 Festulence is an undead type monster that will repeatedly cast a point-blank area of effect damage spell around him, whenever you see him cast move away from him and/or pull your pet back - this PBAE can be completely avoided by doing this and give you a moment to refresh yourself while he finishes casting.
 
-This boss is of the Zombie genus and will share its loot table with others of its kind.
-
 - Known Drops:
-	- [[Putrid Walkers]]
-	- [[Rot Wraps]]
-	- [[Knife of Festering]]
-	- [[Shroud of the Lurker]]
-	- [[Ghoulmight]]

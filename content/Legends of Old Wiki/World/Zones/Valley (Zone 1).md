@@ -10,6 +10,9 @@ The Valley consists of a couple different key landmarks. The Ravari Fortress, th
 A vast new area has opened deep within the cave system, filled with various undead, mudmen, and bosses.
 
 - Bosses:
+	- [[Krexx Bloodcrest]]
+	- [[Watcher Kraeven]]
+	- [[Shalvek Heartbeak]]
 	- [[Ravari Soldier & Ravari Captain]]
 	- [[Talok Windsunder]]
 	- [[Vaelthar Skyborn]]

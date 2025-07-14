@@ -5,6 +5,7 @@ tags:
 ---
 Full list of patch notes since release:
 
+- [[Patch Notes, July 14th, 2025]]
 - [[Patch Notes, July 2nd, 2025]]
 - [[Patch Notes, June 28th, 2025]]
 - [[Patch Notes, June 26th, 2025]]

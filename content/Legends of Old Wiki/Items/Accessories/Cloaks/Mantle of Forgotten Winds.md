@@ -12,5 +12,4 @@ tags:
 | Dexterity | 1     |
 |           |       |
 
-
-Dropped from Ghost Haunt Bosses, see Backlinks for specific enemies
+Drops from [[Ancient Librarian]].

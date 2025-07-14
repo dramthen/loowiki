@@ -10,7 +10,3 @@ The Black Death will attempt to move behind the target for extra damage and has 
 This boss is of the Black Death genus and will share its loot table with others of its kind. 
 
 - Known Drops:
-	- [[Webcoil Grips]]
-	- [[Spinner's Embrace]]
-	- [[Silkwrought Ring]]
-	- [[Deathweaver's Hood]]
