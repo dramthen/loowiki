@@ -11,6 +11,7 @@ The boss will social along with the Ravari Maverick standing next to him, it's g
 - Known Drops:
 	- [[Sleeves of Avia]]
 	- [[Leggings of Avia]]
+	- [[Tunic of Avia]]
 	- [[Dagger of Redbeak]]
 
 ***Bug: Talok has an additional space as the first character in his name.***

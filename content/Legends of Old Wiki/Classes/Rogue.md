@@ -52,19 +52,19 @@ tags:
 - Munitions:
 	- Fire Bomb
 		- Mana:
-		- Duration: (Bugged, DoT not applied)
-		- Cooldown: 28 seconds
+		- Duration: 20 seconds
+		- Cooldown: 20 seconds
 		- Effect: Throws a bomb at the targeted enemy, dealing Fire Damage and applying a Fire Damage over Time effect.
 	- Voltaxic Bomb
 		- Mana:
-		- Cooldown: 28 seconds
+		- Cooldown: 20 seconds
 		- Effect: Throws a bomb at the targeted enemy, dealing Lightning Damage
 	- Stun Bomb
 		- Mana:
 		- Duration: 4 seconds
-		- Cooldown: 28 seconds
+		- Cooldown: 20 seconds
 		- Effect: Throws a bomb at the target, stunning them for a short time
 	- Distract-o-matic
 		- Mana:
-		- Cooldown: 28 seconds
+		- Cooldown: 20 seconds
 		- Effect: Throws a bomb at the target, greatly reducing the Rogues threat toward the target
