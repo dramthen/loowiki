@@ -10,3 +10,5 @@ Moldmaster is a caster and will initiate the fight by running into the back of t
 It is best to avoid using damage over time and when the damage shield is applied, snare or crowd control the Moldmaster until the damage shield times out.
 
 - Known Drops:
+	- [[Mycelial Fang]]
+	- [[Kapkrush]]

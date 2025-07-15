@@ -8,3 +8,5 @@ This boss is found inside a secret all within the first hallway of the dungeon. 
 The Spider Magus is a caster and will attempt to reposition himself to cast. If you do not interrupt or overwise overpower him his casts can deal significant damage. Snaring him so he takes longer to reposition is also a reliable strategy.
 
 - Known Drops:
+	- [[Spinner's Sleeves]]
+	- [[Silkspun Belt]]

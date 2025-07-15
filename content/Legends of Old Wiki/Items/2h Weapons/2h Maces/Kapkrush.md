@@ -7,14 +7,14 @@ tags:
 
 |                             2h Mace |     |
 | ----------------------------------: | :-- |
-|                              Damage | 15  |
-|                               Delay | 6.3 |
-|                            Strength | 7   |
+|                              Damage | 12  |
+|                               Delay | 6   |
+|                            Strength | 5   |
 |                        Intelligence | 3   |
-|                             Agility | 6   |
+|                             Agility | 4   |
 |                       Poison Resist | 5   |
 |                      Disease Resist | 5   |
-| [[Item Effects\|Base Melee Damage]] | 20% |
+| [[Item Effects\|Base Melee Damage]] | 5%  |
 |                                     |     |
 
-Dropped from Mushroomman Bosses, see Backlinks for specific enemies
+Dropped by [[The Moldmaster]].

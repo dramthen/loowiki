@@ -13,4 +13,4 @@ tags:
 | Intelligence | 5        |
 |              |          |
 
-Dropped from Lantern of the Lost Voice Bosses, see Backlinks for specific enemies
+Dropped by [[Thuk the Festering Muck]].

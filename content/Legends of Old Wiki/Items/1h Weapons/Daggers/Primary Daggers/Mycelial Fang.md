@@ -7,11 +7,11 @@ tags:
 
 |                            1h Dagger | Primary |
 | -----------------------------------: | :------ |
-|                               Damage | 7       |
-|                                Delay | 4.4     |
+|                               Damage | 8       |
+|                                Delay | 4.1     |
 |                            Dexterity | 4       |
 |                       Disease Resist | 5       |
-| [[Item Effects\|Melee Style Damage]] | 20%     |
+| [[Item Effects\|Melee Style Damage]] | 5%      |
 |                                      |         |
 
-Dropped from Mushroomman Bosses, see Backlinks for specific enemies
+Dropped by [[The Moldmaster]].

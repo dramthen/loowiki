@@ -13,4 +13,4 @@ tags:
 | Poison Resist | 3    |
 |               |      |
 
-Dropped from Spider Magus Bosses, see Backlinks for specific enemies
+Dropped by [[Spider Magus]].

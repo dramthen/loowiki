@@ -1,7 +1,6 @@
 ---
 title: Rogue
 tags:
-  - TBD
   - Classes
 ---
 <div class="top-align-container">
@@ -13,8 +12,6 @@ tags:
     Rogue is typically the most difficult to solo with requiring the highest APM to pull off successfully. It is possible, but you may find it more difficult than other classes.
   </div>
 </div>
-
-*Skill info incomplete below*
 
 - Melee Styles
 	- Rake
@@ -42,6 +39,10 @@ tags:
 		- Endurance:
 		- Effect: Deals increased damage and additional instant Poison damage
 		- Requirement?: Only after a successful Backstab
+	- Annihilation
+		- Endurance:
+		- Effect: Deals increased damage as Pure damage, which ignores all resistances and armor
+		- Requirement?: Only after a successful Perforation
 
 + Toxicology
 	+ Poison Weapon
@@ -58,6 +59,11 @@ tags:
 		- Duration: 12 seconds
 		- Cooldown: 60 seconds
 		- Effect: Puts a monster to sleep, any damage will wake it up
+	- Weakening Poisoning
+		- Mana:
+		- Duration: ?
+		- Cooldown: 8 seconds
+		- Effect: Lowers the targets elemental resistances
 
 - Munitions:
 	- Fire Bomb
