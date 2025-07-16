@@ -10,3 +10,4 @@ This boss is a caster type enemy. If you do not interrupt or overwise overpower 
 - Known Drops:
 	- [[Gloves of Turbulence]]
 	- [[Sleeves of Turbulence]]
+	- [[Boots of Turbulence]]

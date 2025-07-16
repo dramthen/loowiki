@@ -15,7 +15,7 @@ The Frost Keep is located in an unknown arctic area, covered in ice and snow. On
 	- [[Thalnar The Pale]]
 	- [[Narakka Windshiver]]
 	- [[King Snarlfist IV]]
-	- [[Ice Golem + Ice Golem x3]]
+	- [[Kerthunalad + Ice Golem x3]]
 
 + Enemies
 	+ Snow Crawler

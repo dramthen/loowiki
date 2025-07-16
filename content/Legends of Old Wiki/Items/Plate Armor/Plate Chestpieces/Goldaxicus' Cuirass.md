@@ -15,4 +15,4 @@ tags:
 |    Agility | 12         |
 |            |            |
 
-Dropped from Golden Giant Bosses, see Backlinks for specific enemies
+Dropped by [[Goldaxicus]].

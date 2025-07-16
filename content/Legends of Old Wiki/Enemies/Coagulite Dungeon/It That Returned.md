@@ -9,3 +9,4 @@ This boss is a caster and mainly casts Cold based nukes.
 
 - Known Drops:
 	- [[Stud of the Glacier]]
+	- [[Frostbitten Belt]]

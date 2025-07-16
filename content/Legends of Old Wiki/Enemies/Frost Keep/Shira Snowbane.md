@@ -8,3 +8,4 @@ This boss is located just over the bridge, in the back right room down the stair
 This boss is a priest, with high armor and decent damage. It's much more a battle of attrition and may take longer to defeat than other monsters.
 
 - Known Drops:
+	- [[Frost-Cracked Bracer]]

@@ -9,3 +9,4 @@ Goldaxicus has a large health pool, while a standard warrior mob, he deals high 
 
 - Known Drops:
 	- [[Goldaxicus' Cleaver]]
+	- [[Goldaxicus' Cuirass]]

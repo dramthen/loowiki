@@ -11,4 +11,4 @@ tags:
 |    Stamina | 4       |
 |            |         |
 
-Dropped from Gnoll Bosses, see Backlinks for specific enemies
+Dropped by [[Shira Snowbane]].

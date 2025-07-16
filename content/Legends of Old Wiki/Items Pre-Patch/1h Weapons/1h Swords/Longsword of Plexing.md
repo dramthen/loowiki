@@ -26,4 +26,4 @@ tags:
 | [[Item Effects\|Amelioration]] | Proc |
 |                                |      |
 
-Dropped from [[Ice Golem + Ice Golem x3|Ice Golem]], see Backlinks for specific enemies
+Dropped from [[Kerthunalad + Ice Golem x3|Ice Golem]], see Backlinks for specific enemies
