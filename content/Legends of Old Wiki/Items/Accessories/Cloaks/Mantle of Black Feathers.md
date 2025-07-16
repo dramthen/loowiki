@@ -10,5 +10,6 @@ tags:
 | Hit Points | 6     |
 |  Dexterity | 4     |
 |    Agility | 2     |
+|            |       |
 
 Dropped by [[Krexx Bloodcrest]].

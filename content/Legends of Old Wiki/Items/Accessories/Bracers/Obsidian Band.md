@@ -11,4 +11,5 @@ tags:
 | Intelligence | 2       |
 |       Arcane | 2       |
 |              |         |
+
 Dropped by [[Krexx Bloodcrest]].
