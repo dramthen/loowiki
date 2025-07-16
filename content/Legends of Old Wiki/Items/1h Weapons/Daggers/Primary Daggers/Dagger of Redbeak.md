@@ -2,6 +2,7 @@
 title: Dagger of Redbeak
 tags:
   - 1h_Weapons/Daggers/Primary_Daggers
+  - effect/Stormdrinker
 ---
 
 |                      1h Dagger | Primary |

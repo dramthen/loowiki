@@ -1,5 +1,5 @@
 ---
-title: Thick Talon Claw
+title: Staff of the Winds
 tags:
   - 2h_Weapons/Staves
 ---
@@ -13,4 +13,5 @@ tags:
 | Intelligence | 4   |
 |       Arcane | 3   |
 |              |     |
+
 Dropped by [[Shalvek Heartbeak]].
