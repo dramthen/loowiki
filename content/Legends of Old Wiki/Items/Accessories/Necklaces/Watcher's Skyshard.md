@@ -9,5 +9,6 @@ tags:
 | Hit Points | 8        |
 |  Dexterity | 4        |
 |    Agility | 3        |
+|            |          |
 
 Dropped by [[Watcher Kraeven]].
