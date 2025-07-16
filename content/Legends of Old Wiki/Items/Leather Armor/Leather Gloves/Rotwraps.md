@@ -1,5 +1,5 @@
 ---
-title: Rot Wraps
+title: Rotwraps
 tags:
   - leather_armor/leather_Gloves
 ---
@@ -12,4 +12,4 @@ tags:
 |    Dexterity | 2      |
 |              |        |
 
-Dropped from Zombie Bosses, see Backlinks for specific enemies
+Dropped by [[Festulence]].

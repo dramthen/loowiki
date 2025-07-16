@@ -9,3 +9,4 @@ This boss is located within the mushroom caves and is in an area that [[The Blac
 - Known Drops:
 	- [[Gloves of Soft Rot]]
 	- [[Ghostkindle Wraps]]
+	- [[Jerkin of Living Slime]]

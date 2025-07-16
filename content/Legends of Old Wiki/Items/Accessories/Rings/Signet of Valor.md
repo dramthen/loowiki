@@ -4,8 +4,8 @@ tags:
   - accessories/Rings
 ---
 
-|             Ring |     |
-| ---------------: | --- |
-| Lightning Resist | 8   |
-|                  |     |
+|        Accessory | Ring |
+| ---------------: | ---- |
+| Lightning Resist | 8    |
+|                  |      |
 Dropped by [[Watcher Kraeven]].

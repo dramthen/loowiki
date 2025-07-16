@@ -7,6 +7,7 @@ tags:
 
 |                        Leather | Chestpiece |
 | -----------------------------: | :--------- |
+|                       Negation | 2          |
 |                       Evasion% | 8          |
 |                     Hit Points | 9          |
 |                           Mana | 2          |
@@ -17,4 +18,4 @@ tags:
 | [[Item Effects\|Amelioration]] | Proc       |
 |                                |            |
 
-Dropped from Coagulite Bosses, see Backlinks for specific enemies
+Dropped by [[Thuk the Festering Muck]].

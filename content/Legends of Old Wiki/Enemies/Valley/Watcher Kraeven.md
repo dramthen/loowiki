@@ -12,3 +12,4 @@ Since this boss does leap down from its tower, be very careful pulling him as he
 	- [[Thick Talon Claw]]
 	- [[Signet of Valor]]
 	- [[Watcher's Skyshard]]
+	- [[Thick Talon Claw]]

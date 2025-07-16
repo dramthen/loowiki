@@ -63,7 +63,7 @@ tags:
 		- Mana:
 		- Duration: ?
 		- Cooldown: 8 seconds
-		- Effect: Lowers the targets elemental resistances
+		- Effect: Lowers all resistances of the target
 
 - Munitions:
 	- Fire Bomb

@@ -11,3 +11,5 @@ Festulence is an undead type monster that will repeatedly cast a point-blank are
 
 - Known Drops:
 	- [[Putrid Walkers]]
+	- [[Rotwraps]]
+	- [[Fleshcovered Bracer]]

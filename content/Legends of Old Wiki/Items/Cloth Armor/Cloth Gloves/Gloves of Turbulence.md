@@ -11,4 +11,4 @@ tags:
 | Dexterity | 6      |
 |           |        |
 
-Dropped from Corpse Light Bosses, see Backlinks for specific enemies
+Dropped by [[Lantern of Turbulence]]

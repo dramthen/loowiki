@@ -9,3 +9,5 @@ The Ravari Soldier is not considered named but is the more difficult one to kill
 
 - Known Drops:
 	- [[Gloves of Avia]]
+	- [[Boots of Avia]]
+	- [[Skullcap of Avia]]

@@ -4,8 +4,8 @@ tags:
   - accessories/Rings
 ---
 
-|        Ring |     |
-| ----------: | --- |
-| Cold Resist | 9   |
-|             |     |
+|   Accessory | Ring |
+| ----------: | ---- |
+| Cold Resist | 9    |
+|             |      |
 Dropped by [[Shalvek Heartbeak]].

@@ -14,4 +14,4 @@ tags:
 | Magic Resist | 4    |
 |              |      |
 
-Dropped from Eptu'm Kel Bosses, see Backlinks for specific enemies
+Dropped by [[Eptu'm Kel]].

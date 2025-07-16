@@ -13,4 +13,4 @@ tags:
 |      Agility | 2        |
 |              |          |
 
-Dropped from Corpse Light Bosses, see Backlinks for specific enemies
+Dropped by [[Ignus Fatuus]].

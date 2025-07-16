@@ -8,3 +8,4 @@ This boss is located up the steps on the second floor of the dungeon, short afte
 Goldaxicus has a large health pool, while a standard warrior mob, he deals high physical damage. He is a solo pull.
 
 - Known Drops:
+	- [[Goldaxicus' Cleaver]]

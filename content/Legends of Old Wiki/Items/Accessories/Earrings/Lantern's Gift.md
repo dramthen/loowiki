@@ -1,5 +1,5 @@
 ---
-title: Lantern's Embercore
+title: Lantern's Gift
 tags:
   - accessories/Earrings
 ---
@@ -10,4 +10,4 @@ tags:
 | Fire Resist | 9        |
 |             |          |
 
-Dropped from Lantern of the Lost Voice Bosses, see Backlinks for specific enemies
+Dropped by [[Vaelthar Skyborn]].

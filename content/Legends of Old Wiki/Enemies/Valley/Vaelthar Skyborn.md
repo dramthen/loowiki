@@ -9,3 +9,5 @@ The boss will social along with the two Ravari Maverick standing next to him, it
 
 - Known Drops:
 	- [[Hat of False Fire]]
+	- [[Encrusted Sleeves]]
+	- [[Lantern's Gift]]

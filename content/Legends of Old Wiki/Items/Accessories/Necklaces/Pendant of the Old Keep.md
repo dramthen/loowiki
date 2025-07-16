@@ -4,9 +4,9 @@ tags:
   - accessories/Necklaces
 ---
 
-|   Accessory | Necklace |
-| ----------: | :------- |
-| Intellgence | 8        |
-|             |          |
+|    Accessory | Necklace |
+| -----------: | :------- |
+| Intelligence | 8        |
+|              |          |
 
 Dropped by [[Remant of Accord]].

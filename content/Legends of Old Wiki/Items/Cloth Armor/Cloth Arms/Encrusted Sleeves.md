@@ -1,15 +1,15 @@
 ---
-title: Sleeves of Turbulence
+title: Encrusted Sleeves
 tags:
   - cloth_armor/cloth_Arms
 ---
 
 |        Cloth | Arms |
 | -----------: | :--- |
-|     Negation | 2    |
-|         Mana | 10   |
+|     Negation | 1    |
 | Intelligence | 5    |
 |       Arcane | 4    |
+|  Fire Resist | 3    |
 |              |      |
 
-Dropped from Corpse Light Bosses, see Backlinks for specific enemies
+Dropped by [[Vaelthar Skyborn]].

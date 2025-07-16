@@ -1,15 +1,15 @@
 ---
-title: Encrusted Sleeves
+title: Sleeves of Turbulence
 tags:
   - cloth_armor/cloth_Arms
 ---
 
 |        Cloth | Arms |
 | -----------: | :--- |
-|     Negation | 1    |
+|     Negation | 2    |
+|         Mana | 10   |
 | Intelligence | 5    |
 |       Arcane | 4    |
-|  Fire Resist | 3    |
 |              |      |
 
-Dropped from Mudman Bosses, see Backlinks for specific enemies
+Dropped by [[Lantern of Turbulence]].

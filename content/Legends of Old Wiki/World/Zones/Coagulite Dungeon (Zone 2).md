@@ -15,8 +15,10 @@ The Coagulite Dungeon is found deep in marshland, with a large fortress structur
 	- [[The Moldmaster]]
 	- [[Ixthel the Impaler]]
 	- [[Gorvrax the Oozing]]
+	- [[It That Returned]]
 	- [[Goldaxicus]]
 	- [[Eptu'm Kel]]
+	- [[High Vizor Malgrith]]
 	- [[Kelva]]
 
 + Enemies

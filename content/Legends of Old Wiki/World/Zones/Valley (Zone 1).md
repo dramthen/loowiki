@@ -25,7 +25,7 @@ A vast new area has opened deep within the cave system, filled with various unde
 	- [[Remant of Accord]]
 	- [[Varkh the Unquiet]]
 	- [[Ser Erian the Forgotten]]
-	- [[Lantern of The Lost Voice]]
+	- [[Lantern of Turbulence]]
 	- [[Vareth Mortis & Skeletal Centurion]]
 
 + Enemies:

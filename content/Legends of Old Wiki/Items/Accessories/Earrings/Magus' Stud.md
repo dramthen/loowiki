@@ -10,7 +10,7 @@ tags:
 |                   Intelligence | 2        |
 |                      Dexterity | 5        |
 |                         Arcane | 3        |
-| [[Item Effects\|Magic Damage]] | 20%      |
+| [[Item Effects\|Magic Damage]] | 5%       |
 |                                |          |
 
-Dropped from Spider Magus Bosses, see Backlinks for specific enemies
+Dropped by [[Spider Magus]].

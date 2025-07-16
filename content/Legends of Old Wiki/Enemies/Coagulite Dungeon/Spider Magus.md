@@ -10,3 +10,4 @@ The Spider Magus is a caster and will attempt to reposition himself to cast. If 
 - Known Drops:
 	- [[Spinner's Sleeves]]
 	- [[Silkspun Belt]]
+	- [[Magus' Stud]]
