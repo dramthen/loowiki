@@ -11,3 +11,4 @@ Although he is a single pull, Tremor hits significantly harder with physical dam
 	- [[Slicked Club]]
 	- [[Bracers of Mire]]
 	- [[Mantle of Clay]]
+	- [[Mudcaked Leggings]]

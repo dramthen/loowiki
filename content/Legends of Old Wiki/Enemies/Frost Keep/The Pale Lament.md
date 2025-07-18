@@ -9,3 +9,4 @@ This boss is a caster and seems to rarely summon enemies. If you do not interrup
 
 - Known Drops:
 	- [[Tylea's Memory]]
+	- [[Belt of the Forlorn]]

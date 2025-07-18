@@ -13,4 +13,4 @@ tags:
 |       Arcane | 2   |
 |              |     |
 
-Dropped from Ghost Haunt Bosses, see Backlinks for specific enemies
+Dropped by [[Ancient Librarian]].

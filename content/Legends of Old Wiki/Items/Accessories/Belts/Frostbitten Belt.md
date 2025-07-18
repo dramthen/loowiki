@@ -12,4 +12,4 @@ tags:
 |     Dexterity | 3    |
 | Poison Resist | 3    |
 
-Dropped by [[It That Returned]]
+Dropped by [[It That Returned]].

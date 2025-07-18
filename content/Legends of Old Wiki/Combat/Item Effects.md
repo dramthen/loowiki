@@ -27,7 +27,7 @@ Currently, [[Equipment|random items]] cannot have any "proc", but <a href="./Leg
 	- Amelioration
 		- Chance when hit to store a small amount of health
 	- Anger
-		- Chance when hit to retaliate with Fire Damage
+		- Chance when hit to retaliate with Fire Damage equal to twice your Strength
 	- Stormdrinker
 		- Chance on attack to deal Lightning Damage equal to twice your Intelligence
 	- Magebane
