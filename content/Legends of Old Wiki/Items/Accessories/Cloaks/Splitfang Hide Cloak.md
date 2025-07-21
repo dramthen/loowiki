@@ -6,12 +6,12 @@ tags:
 
 |      Accessory | Cloak |
 | -------------: | :---- |
-|     Hit Points | 3     |
-|   Intelligence | 3     |
+|     Hit Points | 20    |
+|   Intelligence | 20    |
 |      Dexterity | 3     |
 |         Arcane | 3     |
 | Disease Resist | 2     |
 |   Magic Resist | 5     |
 |                |       |
 
-Dropped from Gnoll Bosses, see Backlinks for specific enemies
+Dropped by [[Shira Snowbane]].

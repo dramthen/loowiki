@@ -3,7 +3,6 @@ title: Ruined Tower Book
 tags:
   - lore/Book
 ---
-
 I still climb the broken tower
 every time I return. The steps
 crumble the same way. The

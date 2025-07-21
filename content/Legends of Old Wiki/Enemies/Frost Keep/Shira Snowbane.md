@@ -9,3 +9,4 @@ This boss is a priest, with high armor and decent damage. It's much more a battl
 
 - Known Drops:
 	- [[Frost-Cracked Bracer]]
+	- [[Splitfang Hide Cloak]]

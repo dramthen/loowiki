@@ -12,4 +12,4 @@ tags:
 | Magic Resist | 5        |
 |              |          |
 
-Dropped from Frozen Haunt Bosses, see Backlinks for specific enemies
+Dropped by [[Spectral Jailer]].

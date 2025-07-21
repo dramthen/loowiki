@@ -1,5 +1,5 @@
 ---
-title: Kapkruch
+title: Kapkrush
 tags:
   - 2h_Weapons/2h_Maces
   - effect/meleeDamage

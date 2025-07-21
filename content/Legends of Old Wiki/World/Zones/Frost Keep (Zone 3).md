@@ -24,7 +24,7 @@ The Frost Keep is located in an unknown arctic area, covered in ice and snow. On
 	+ Ancient Slush
 	+ Frozen Legionnaire
 	+ Glaciated Corpse
-	+ Frozen Coagulite Arcanist
+	+ It That Was Taken
 	+ Icefang Rendwarden
 	+ Icefang Bonemender
 	+ Icefang Frostcaller

@@ -13,5 +13,6 @@ tags:
 |                    Dexterity | 2    |
 |                       Arcane | 2    |
 | [[Item Effects\|Mana Regen]] | +2   |
+|                              |      |
 
 Dropped by [[Ignus Fatuus]].

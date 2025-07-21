@@ -3,7 +3,6 @@ title: Book 3
 tags:
   - lore/Book
 ---
-
 "I remember being still, then
 being known. Not by voice, but
 by presence. Like I had always

@@ -9,5 +9,6 @@ tags:
 | Hit Points | 10      |
 |  Dexterity | 4       |
 |    Agility | 3       |
+|            |         |
 
 Dropped by [[Festulence]].
