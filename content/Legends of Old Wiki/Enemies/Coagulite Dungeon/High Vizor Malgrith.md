@@ -10,3 +10,4 @@ This boss is a caster and will reposition himself to cast, snaring him so he tak
 - Known Drops:
 	- [[Recursive Memory]]
 	- [[Vestige of Madness]]
+	- [[Iris of Xalthur]]

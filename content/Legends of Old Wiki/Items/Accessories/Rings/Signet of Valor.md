@@ -1,5 +1,5 @@
 ---
-title: Thick Talon Claw
+title: Signet of Valor
 tags:
   - accessories/Rings
 ---
@@ -8,4 +8,5 @@ tags:
 | ---------------: | ---- |
 | Lightning Resist | 8    |
 |                  |      |
+
 Dropped by [[Watcher Kraeven]].

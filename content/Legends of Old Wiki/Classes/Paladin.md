@@ -2,6 +2,7 @@
 title: Paladin
 tags:
   - Classes
+  - bug
 ---
 <div class="top-align-container">
   <img src="Paladin_Symbol.png" alt="Paladin">
@@ -79,9 +80,11 @@ tags:
 	- Holy Blinding
 		- Mana: 25~
 		- Cooldown: 15~ seconds
-		- Effect: Deals instant pure damage to the target
+		- Effect: Deals instant Pure damage to the target
 		- Active Sigil determines additional effects:
 			- Atonement: Additional Lightning Damage
 			- Redemption: Additional Group Heal
 			- Rebuke: AE Fire Damage
 			- Bulwarking: Full Endurance Restoration for Party
+				- **BUG:** The sigil buff icon sometimes won't clear itself properly - usually when playing online as a non-host. The buff *is* consumed however, and this is not exploitable.
+				- **BUG**: When detonating Bulwarking, it can cause lag for the casting player. This is more noticeable online with more players. This lag does allow the player to spam Holy Blinding - it will still consume mana appropriately but allow multiple instances of Pure damage to be thrown.

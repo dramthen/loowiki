@@ -11,3 +11,4 @@ This boss is relatively easy and is a single pull.
 	- [[Obsidian Band]]
 	- [[Moonleaf Medallion]]
 	- [[Mantle of Black Feathers]]
+	- [[Blackroot Mace]]

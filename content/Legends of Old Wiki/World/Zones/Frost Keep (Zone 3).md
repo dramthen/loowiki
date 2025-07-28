@@ -12,7 +12,7 @@ The Frost Keep is located in an unknown arctic area, covered in ice and snow. On
 	- [[Spectral Jailer]]
 	- [[Corpseweaver Ghraaz]]
 	- [[Shira Snowbane]]
-	- [[Thalnar The Pale]]
+	- [[Thalnar the Pale]]
 	- [[Narakka Windshiver]]
 	- [[King Snarlfist IV]]
 	- [[Kerthunalad + Ice Golem x3]]
