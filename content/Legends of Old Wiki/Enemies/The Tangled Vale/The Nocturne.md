@@ -10,3 +10,4 @@ He is a regular melee monster with no special abilities.
 - Known Drops:
 	- [[Shadowed Shield]]
 	- [[Shadow Steppers]]
+	- [[Shadowed Leggings]]

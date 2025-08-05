@@ -14,7 +14,7 @@ Please see the following sections for more information:
 + [[Classes]]
 	- [[Reaver]] - [[Elementalist]] - [[Rogue]] - [[Paladin]] - [[Druid]] - [[Shaman]]
  + [[World]]
-	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]] - [[The Tangled Vale (Zone 4)]]
+	- [[Nexus]] - [[Thalanor's Retreat]] - [[The Tangled Vale]] - [[Dhormund's Hold]] - [[Glacious]]
 
 - [[Disenchanting]] - [[Shards]]
 - [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a> - <a href="./Legends-of-Old-Wiki/Items-Pre-Patch/">Pre-Patched by Slot</a>
@@ -22,4 +22,4 @@ Please see the following sections for more information:
 
 + [[Patch Notes]]
 
-Due to the most recent patch on 7/14/2025 all items have been moved and will be re-added when stats reconfirmed as many bosses and items were changed and added.
+Due to the patch on 7/14/2025 all items have been moved and will be re-added when stats reconfirmed as many bosses and items were changed and added.

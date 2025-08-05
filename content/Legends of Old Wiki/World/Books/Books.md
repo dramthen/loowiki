@@ -11,17 +11,17 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Book 2|Book 2]]
 	- [[Book 3|Book 3]]
 
-+ [[Valley (Zone 1)]] Books
++ [[Thalanor's Retreat]] Books
 	- [[Graveyard Book]]
 	- [[Ruined Tower Book]]
 	- [[Ancient Librarians' Book]]
 	- [[Vortis' Memoir]]
 
-- [[Coagulite Dungeon (Zone 2)]] Books
+- [[Dhormund's Hold]] Books
 
-+ [[Frost Keep (Zone 3)]] Books
++ [[Glacious]] Books
 
-- [[The Tangled Vale (Zone 4)]] Books
+- [[The Tangled Vale]] Books
 	- [[Book (Cave)]]
 	- [[Book (Golems)]]
 	- [[Book (Mountain)]]

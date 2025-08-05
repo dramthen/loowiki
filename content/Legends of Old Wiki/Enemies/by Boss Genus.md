@@ -3,7 +3,7 @@ title: by Boss Genus
 draft: true
 tags:
 ---
-- [[Valley (Zone 1)]]:
+- [[Thalanor's Retreat]]:
 	- #genus/ravari
 	- #genus/mudman 
 	- #genus/slime 
@@ -15,7 +15,7 @@ tags:
 	- #genus/lanternofthelostvoice 
 	- #genus/vareth 
 
-+ [[Coagulite Dungeon (Zone 2)]]
++ [[Dhormund's Hold]]
 	+ #genus/coagulite 
 	+ #genus/slime 
 	+ #genus/blackdeath 
@@ -24,7 +24,7 @@ tags:
 	+ #genus/eptumkel 
 	+ #genus/kelva 
 
-- [[Frost Keep (Zone 3)]]
+- [[Glacious]]
 	- #genus/gnoll
 	- #genus/gnollKing
 	- #genus/frozenHaunt

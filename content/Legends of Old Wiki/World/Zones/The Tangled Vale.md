@@ -5,7 +5,9 @@ tags:
 ---
 ![[The_Tangled_Vale.png]]
 
-The Tangled Vale 
+"The trees still sing -- but not in peace, and some who wail will never cease."
+
+The Tangled Vale. Accessible at level 4.
 
 - Bosses
 	- [[Sentry Of Eternity]]

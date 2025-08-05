@@ -12,4 +12,4 @@ tags:
 | Fire Resist | 8        |
 |             |          |
 
-Dropped by [[Pain]] and [[Sorrow]].
+Dropped by [[Grief]], [[Pain]], and [[Sorrow]].

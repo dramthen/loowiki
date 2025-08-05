@@ -1,7 +1,7 @@
 ---
 title: Sentry Of Eternity
 tags:
-  - genus/dryad
+  - genus/druid
 ---
 This boss is located deep into the jungle - after passing through the midway ruins, turn right and you'll see him standing on top of a platform.
 

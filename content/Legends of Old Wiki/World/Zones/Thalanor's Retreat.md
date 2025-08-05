@@ -1,11 +1,13 @@
 ---
-title: Valley (Zone 1)
+title: Thalanor's Retreat
 tags:
   - Zones
 ---
-![[Valley_Zone.png|800]]
+![[public/Legends-of-Old-Wiki/Images/Valley_Zone.png|800]]
 
-The Valley consists of a couple different key landmarks. The Ravari Fortress, the Graveyard, the Caves, and the Corpse Light castle, pictured above. Accessible at level 1, it is currently the only outdoor-type zone with a sprawling cave system and a *known* non-boss [[Vortis' Memoir|related secret.]]
+"They built it deep, to die with grace, a crownless end in quiet place."
+
+Thalanor's Retreat consists of a couple different key landmarks. The Ravari Fortress, the Graveyard, the Caves, and the Corpse Light castle, pictured above. Accessible at level 1.
 
 A vast new area has opened deep within the cave system, filled with various undead, mudmen, and bosses.
 

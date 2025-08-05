@@ -160,5 +160,5 @@ I wonder why you had to kill me
 just to read my book.
 
 [[Books|Back to Books]]
-[[Valley (Zone 1)|Back to Valley (Zone 1)]]
+[[Thalanor's Retreat|Back to Valley (Zone 1)]]
 [[Legends Of Old|Back to Main]]

@@ -6,3 +6,4 @@ This boss is located in some small ruins and can be found by hugging the right w
 
 - Known Drops:
 	- [[Greenglow Helm]]
+	- [[Ruinous Cleaver]]
