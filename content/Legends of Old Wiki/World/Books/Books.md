@@ -6,7 +6,7 @@ Various lore books can be found throughout the [[world]], including the [[Nexus]
 
 These offer a bit of insight into the history and lore of not only the game, but also its development. Some also may point to secrets found within the game.
 
-- [[Nexus]] books:
+- [[Nexus]] Books
 	- [[Book 1|Book 1]]
 	- [[Book 2|Book 2]]
 	- [[Book 3|Book 3]]
@@ -17,12 +17,14 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Ancient Librarians' Book]]
 	- [[Vortis' Memoir]]
 
-- [[The Tangled Vale (Zone 4)]]
-	- [[Book (Cave)]]
-	- [[Book (Golems)]]
-	- [[Book (Ravari)]]
-	- [[Book (Woe)]]
-
 - [[Coagulite Dungeon (Zone 2)]] Books
 
 + [[Frost Keep (Zone 3)]] Books
+
+- [[The Tangled Vale (Zone 4)]] Books
+	- [[Book (Cave)]]
+	- [[Book (Golems)]]
+	- [[Book (Mountain)]]
+	- [[Book (Ravari)]]
+	- [[Book (Woe)]]
+

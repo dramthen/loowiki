@@ -16,8 +16,8 @@ The Tangled Vale
 	- [[Sorrow]]
 	- [[The Nocturne]]
 	- [[Vrixris Sirxirv]]
+	- [[Woe]]
 	- [[Grovewarden Tie'Avel]] - grove area in tree fort
-	- [[Woe]] - in ruins past tree fort
 	- [[Ancient Treant]] - superboss?
 
 + Enemies
