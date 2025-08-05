@@ -9,7 +9,8 @@ This boss is located in the ruins with the Coagulite Wizards outside. He has two
 He is a caster that uses Magic, Cold, and Lightning based spells.
 
 - Known Drops:
-	- [[Staff of the Elements]]
 	- [[Wraps of Latent power]]
+	- [[Crud Covered Stud]]
+	- [[Staff of the Elements]]
 
-Currently also spawning in the ruins with [[The Nocturne]] - I'm pretty sure this is the spawn point of what is supposed to be a different boss.
+***BUG: Currently also spawning in the ruins with [[The Nocturne]] - I'm pretty sure this is the spawn point of what is supposed to be a different boss.***

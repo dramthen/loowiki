@@ -3,22 +3,25 @@ title: The Tangled Vale (Zone 4)
 tags:
   - Zones
 ---
+![[The_Tangled_Vale.png]]
 
-The Tangled Vale
+The Tangled Vale 
 
 - Bosses
 	- [[Sentry Of Eternity]]
 	- [[Bortak the Cruel]]
+	- [[Kroobel'Tan]]
 	- [[Shriller Matron]]
 	- [[Glydin Goldfeather]]
+	- [[The Widow Queen]]
+	- [[The Nocturne]]
 	- [[Grief]]
 	- [[Pain]]
 	- [[Sorrow]]
-	- [[The Nocturne]]
 	- [[Vrixris Sirxirv]]
 	- [[Woe]]
-	- [[Grovewarden Tie'Avel]] - grove area in tree fort
-	- [[Ancient Treant]] - superboss?
+	- [[Ancient Treant]]
+	- [[Grovewarden Tie'Avel]]
 
 + Enemies
 	+ Ogre Raider
@@ -38,6 +41,7 @@ The Tangled Vale
 	+ Arboreal Warden
 	+ Coagulite Wizard
 	+ Mud Golem
+	+ Rotbringer Spider
 
 - Books
 	- [[Book (Cave)]]

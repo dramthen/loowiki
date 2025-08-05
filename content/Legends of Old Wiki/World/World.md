@@ -28,3 +28,8 @@ tags:
 	+ [[Books]]
 	+ [[Frost Keep (Zone 3)|Enemies]]
 	+ [[Frost Keep (Zone 3)|Bosses]]
+
++ [[The Tangled Vale (Zone 4)|The Tangled Vale (Zone 4, level 4)]]
+	+ [[Books]]
+	+ [[The Tangled Vale (Zone 4)|Enemies]]
+	+ [[The Tangled Vale (Zone 4)|Bosses]]
