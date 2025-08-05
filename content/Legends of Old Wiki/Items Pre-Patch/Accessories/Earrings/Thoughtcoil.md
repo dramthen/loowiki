@@ -16,4 +16,4 @@ tags:
 | Magic Resist | 2        |
 |              |          |
 
-Dropped from [[Kevla]], see Backlinks for specific enemies
+Dropped from [[Kelva]], see Backlinks for specific enemies

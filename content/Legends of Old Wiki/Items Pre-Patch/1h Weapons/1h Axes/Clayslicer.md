@@ -6,10 +6,10 @@ tags:
 
 |         2h Axe |     |
 | -------------: | :-- |
-|         Damage | 9   |
+|         Damage | 6   |
 |          Delay | 5.4 |
-|       Strength | 6   |
-|      Dexterity | 5   |
+|       Strength | 3   |
+|      Dexterity | 2   |
 | Disease Resist | 3   |
 |                |     |
 

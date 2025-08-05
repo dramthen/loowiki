@@ -17,6 +17,12 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Ancient Librarians' Book]]
 	- [[Vortis' Memoir]]
 
+- [[The Tangled Vale (Zone 4)]]
+	- [[Book (Cave)]]
+	- [[Book (Golems)]]
+	- [[Book (Ravari)]]
+	- [[Book (Woe)]]
+
 - [[Coagulite Dungeon (Zone 2)]] Books
 
 + [[Frost Keep (Zone 3)]] Books

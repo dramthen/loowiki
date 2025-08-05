@@ -2,6 +2,7 @@
 title: The Pale Lament
 tags:
   - genus/frozenHaunt
+  - bug
 ---
 This boss is located inside the ice caves, a short way into the dungeon, before passing under the bridge. Taking all left-hand turns in the ice cave will eventually lead to to The Pale Lament.
 
@@ -12,3 +13,5 @@ This boss is a caster and seems to rarely summon enemies. If you do not interrup
 	- [[Belt of the Forlorn]]
 	- [[Ghostbrance Mace]]
 	- Nothing
+
+***There is a Snow Crawler stuck in the ground in the back part of the room, if you travel there either willingly or via The Pale Lament moving over there the Crawler may attack you through the floor and possibly pop out.***
