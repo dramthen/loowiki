@@ -7,7 +7,7 @@ tags:
 The Tangled Vale
 
 - Bosses
-	- [[Sentry of Eternity]]
+	- [[Sentry Of Eternity]]
 	- [[Bortak the Cruel]]
 	- [[Shriller Matron]]
 	- [[Glydin Goldfeather]]
@@ -41,5 +41,7 @@ The Tangled Vale
 
 - Books
 	- [[Book (Cave)]]
+	- [[Book (Golems)]]
+	- [[Book (Mountain)]]
 	- [[Book (Ravari)]]
 	- [[Book (Woe)]]

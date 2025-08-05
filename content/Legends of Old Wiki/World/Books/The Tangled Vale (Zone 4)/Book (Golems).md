@@ -12,7 +12,7 @@ Forged Anvil: that they would
 never burn without purpose. But
 after the Fracture, they burned
 anyway. Not in anger, nor in joy,
-but in hunter. Their covenant
+but in hunger. Their covenant
 broken, they now wander the
 black places beneath the world,
 seeking to be bound once more.

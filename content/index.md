@@ -14,7 +14,7 @@ Please see the following sections for more information:
 + [[Classes]]
 	- [[Reaver]] - [[Elementalist]] - [[Rogue]] - [[Paladin]] - [[Druid]] - [[Shaman]]
  + [[World]]
-	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]]
+	- [[Nexus]] - [[Valley (Zone 1)]] - [[Coagulite Dungeon (Zone 2)]] - [[Frost Keep (Zone 3)]] - [[The Tangled Vale (Zone 4)]]
 
 - [[Disenchanting]] - [[Shards]]
 - [[Equipment]] -  <a href="./Legends-of-Old-Wiki/Items/">by Slot</a> - <a href="./Legends-of-Old-Wiki/Items-Pre-Patch/">Pre-Patched by Slot</a>
