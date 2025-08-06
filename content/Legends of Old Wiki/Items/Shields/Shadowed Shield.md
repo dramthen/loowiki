@@ -12,4 +12,4 @@ tags:
 | Block Chance | 5%  |
 |              |     |
 
-Dropped by [[Ancient Treant]].
+Dropped by [[The Nocturne]].

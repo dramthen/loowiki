@@ -7,3 +7,4 @@ This boss can be found in a tent on a ledge up against the wall from the left of
 
 - Known Drops
 	- [[Black-Iron Bracer]]
+	- [[Krubtin Sleeves]]
