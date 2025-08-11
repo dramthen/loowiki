@@ -3,7 +3,7 @@ title: Thalanor's Retreat
 tags:
   - Zones
 ---
-![[public/Legends-of-Old-Wiki/Images/Valley_Zone.png|800]]
+![[Valley_Zone.png|800]]
 
 "They built it deep, to die with grace, a crownless end in quiet place."
 

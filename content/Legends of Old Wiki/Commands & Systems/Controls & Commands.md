@@ -31,4 +31,4 @@ tags:
 	- /destroy - destroys the item currently on the cursor
 	- /played - shows your character creation time and time played
 
-Saves are located at: %appdata%\Local\Loo_Coop\Saved\SaveGames
+Saves are located at: %localappdata%\Loo_Coop\Saved\SaveGames

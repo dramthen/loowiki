@@ -3,7 +3,7 @@ title: Nexus
 tags:
   - Zones
 ---
-![[public/Legends-of-Old-Wiki/Images/Nexus_Zone.png|400]]
+![[Nexus_Zone.png|400]]
 
 The Nexus exists as a hub-world connected to various shards, or dungeons, to explore.
 

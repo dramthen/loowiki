@@ -1,9 +1,9 @@
 ---
-title: The Tangled Vale (Zone 4)
+title: The Tangled Vale
 tags:
   - Zones
 ---
-![[The_Tangled_Vale.png]]
+![[The_Tangled_Vale.png|800]]
 
 "The trees still sing -- but not in peace, and some who wail will never cease."
 

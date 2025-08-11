@@ -1,10 +1,9 @@
 ---
-title: Coagulite Dungeon (Zone 2)
+title: Dhormund's Hold
 tags:
   - Zones
-  - TBD
 ---
-![[public/Legends-of-Old-Wiki/Images/Coagulite_Zone.png|800]]
+![[Coagulite_Zone.png|800]]
 
 "The doors are sealed, the light is gone, yet something deeper lingers on."
 

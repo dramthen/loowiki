@@ -66,7 +66,7 @@ tags:
 		- Mana: 20~
 		- Duration: 18 seconds
 		- Cooldown: 12 seconds
-		- Effect: Attempts to push the target backwards (of their own faced duration), and applies a very powerful snaring effect
+		- Effect: Attempts to push the target backwards (of their own faced direction), and applies a very powerful snaring effect
 	- Lay on Hands
 		- Mana: 20~
 		- Duration: 3 ticks

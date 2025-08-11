@@ -7,7 +7,7 @@ tags:
 |      Accessory | Cloak |
 | -------------: | :---- |
 |     Hit Points | 20    |
-|   Intelligence | 20    |
+|           Mana | 20    |
 |      Dexterity | 3     |
 |         Arcane | 3     |
 | Disease Resist | 2     |

@@ -1,11 +1,11 @@
 ---
-title: Frost Keep (Zone 3)
+title: Glacious
 tags:
   - Zones
 ---
-![[public/Legends-of-Old-Wiki/Images/Frost_Keep_Zone.png|800]]
+![[Frost_Keep_Zone.png|800]]
 
-"Time stand still, and cold is king, where death once wore a noble ring."
+"Time stands still, and cold is king, where death once wore a noble ring."
 
 Glacious is located in an unknown arctic area, covered in ice and snow. Only hardy creatures survive here such as the clan of Icefang gnolls, the Ice Golems, the Snow Crawlers, and of course the undead. The area seems to hold many secrets and treasures. Accessible at level 15.
 
