@@ -27,4 +27,5 @@ These offer a bit of insight into the history and lore of not only the game, but
 	- [[Book (Mountain)]]
 	- [[Book (Ravari)]]
 	- [[Book (Woe)]]
+	- [[Book (Grove)]]
 

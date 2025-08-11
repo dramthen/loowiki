@@ -51,3 +51,4 @@ The Tangled Vale. Accessible at level 4.
 	- [[Book (Mountain)]]
 	- [[Book (Ravari)]]
 	- [[Book (Woe)]]
+	- [[Book (Grove)]]
