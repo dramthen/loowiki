@@ -9,3 +9,4 @@ Boss may be part of a 'loop' and will only spawn after [[Pain]] is killed.
 
 - Known Drops
 	- [[Leggings of Wandering]]
+	- [[Helm of Wandering]]

@@ -9,3 +9,4 @@ Boss may be part of a 'loop' and will only spawn after [[Grief]] is killed, spaw
 
 - Known Drops
 	- [[Leggings of Wandering]]
+	- [[Vambraces of Wandering]]

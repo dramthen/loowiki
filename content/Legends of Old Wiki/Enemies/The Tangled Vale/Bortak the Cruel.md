@@ -8,3 +8,4 @@ This boss is located in some small ruins and can be found by hugging the right w
 	- [[Greenglow Helm]]
 	- [[Ruinous Cleaver]]
 	- [[Grubwub Sleeves]]
+	- [[Martyr's Shame]]

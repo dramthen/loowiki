@@ -12,3 +12,4 @@ This boss appears to be a regular scout type enemy with no special abilities.
 	- [[Staff of the Winds]]
 	- [[Ring of Frost's Embrace]]
 	- [[Plume of Grace]]
+	- [[Watcher's Answer]]
