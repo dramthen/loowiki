@@ -8,3 +8,4 @@ This boss is located about half way into the dungeon, standing alone in a small 
 Ixthel the Impaler has a large health pool and is considered a caster, he will attempt to reposition himself to cast. If you do not interrupt or overwise overpower him his casts can deal significant damage. Snaring him so he takes longer to reposition is also a reliable strategy.
 
 - Known Drops:
+	-  [[Gloves of Soft Rot]]

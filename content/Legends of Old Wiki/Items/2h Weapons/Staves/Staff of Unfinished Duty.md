@@ -16,4 +16,4 @@ tags:
 | Magic Resist | 3   |
 |              |     |
 
-Dropped from SerErian Bosses, see Backlinks for specific enemies
+Dropped from [[Ser Erian the Forgotten]].

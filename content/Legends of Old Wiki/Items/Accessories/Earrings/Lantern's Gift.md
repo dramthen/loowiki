@@ -6,6 +6,7 @@ tags:
 
 |   Accessory | Earrings |
 | ----------: | :------- |
+|  Hit Points | 6        |
 |     Agility | 3        |
 | Fire Resist | 9        |
 |             |          |

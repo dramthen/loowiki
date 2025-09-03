@@ -12,4 +12,4 @@ tags:
 |   Strength | 3      |
 |            |        |
 
-Dropped from Varkh Bosses, see Backlinks for specific enemies
+Dropped from [[Varkh the Unquiet]].

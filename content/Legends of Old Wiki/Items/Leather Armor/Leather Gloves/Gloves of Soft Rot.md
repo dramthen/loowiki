@@ -15,4 +15,4 @@ tags:
 |    Agility | 6      |
 |            |        |
 
-Dropped by [[Thuk the Festering Muck]]
+Dropped by [[Thuk the Festering Muck]] & [[Ixthel the Impaler]] & [[Gorvrax the Oozing]]

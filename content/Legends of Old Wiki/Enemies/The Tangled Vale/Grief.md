@@ -11,3 +11,4 @@ Boss may be part of a 'loop' and will spawn [[Pain]] after being killed.
 	- [[Boots of Wandering]]
 	- [[Gauntlets of Wandering]]
 	- [[Leggings of Wandering]]
+	- [[Cuirass of Wandering]]

@@ -8,3 +8,4 @@ This boss is located in the newly opened ruins deep within the caves, in a small
 This boss is a centurion type enemy that will attempt to reposition itself behind the players back for extra damage.
 
 - Known Drops:
+	- [[Varkh's Chain Gauntlets]]

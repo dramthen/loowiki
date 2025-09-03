@@ -12,4 +12,6 @@ Ignus will reposition himself to cast spells. While he has a low health pool, if
 - Known Drops:
 	- [[Boots of Swirling]]
 	- [[Gloves of Swirling]]
+	- [[Sleeves of Swirling]]
+	- [[Leggings of Swirling]]
 	- [[Robe of Swirling]]
